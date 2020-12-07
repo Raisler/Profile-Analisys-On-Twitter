@@ -1,0 +1,527 @@
+index,time,text
+0,2020-12-03 23:40:23,@RationalEtienne And no toilet paper 🤣🤣
+1,2020-12-03 23:30:34,Watch Demolition Man
+2,2020-12-03 23:19:57,Prometheus Unbound
+3,2020-12-03 14:25:15,RT @SpaceX: The Falcon 9 booster supporting this mission previously launched @NASA astronauts Bob Behnken and Doug Hurley to the @space_sta…
+4,2020-12-03 02:21:46,@ErcXspace @SpaceX @NASASpaceflight @Erdayastronaut @MarcusHouseGame @FelixSchlang Not bad
+5,2020-12-02 17:33:24,@TheOnion It was a beast compared to the VIC-20
+6,2020-12-02 13:29:19,"@Tesmanian_com Award accepted on behalf of the great people at Tesla, SpaceX, Neuralink &amp; Boring Co"
+7,2020-12-02 03:19:28,"Much of what people think of an science is actually engineering, eg no such thing as a “rocket scientist”, only roc… https://t.co/ws70UvCRyN"
+8,2020-12-02 03:13:25,"Science is discovering the essential truths about what exists in the Universe, engineering is about creating things… https://t.co/XMQTBrLDYP"
+9,2020-12-02 03:03:05,@justpaulinelol It does get a bit cold at night
+10,2020-12-01 11:58:41,@engineers_feed Paint makes a hell of a difference
+11,2020-11-30 23:18:18,@DeepMind Congrats!
+12,2020-11-30 22:53:11,@lrocket Thanks for everything you did to help build SpaceX! Some of the best memories ever.
+13,2020-11-30 18:26:28,@RGVaerialphotos It will be real soon
+14,2020-11-29 22:57:08,@MarcusHouseGame @bcart03 @nextspaceflight @NASASpaceflight Starship legs are one of the hardest problems. External… https://t.co/csIZk6sEVu
+15,2020-11-29 19:01:30,"@bcart03 @nextspaceflight @NASASpaceflight Static fire is not risky from build site, but we need to clear the build site for early flights"
+16,2020-11-29 18:58:27,@nextspaceflight @NASASpaceflight Just a static fire tomorrow. Flight no earlier than Wednesday.
+17,2020-11-28 20:06:51,@ErcXspace @SpaceX It will have landing legs
+18,2020-11-28 18:28:24,"@eugenelee3 @PPathole @karpathy Yes, very sad news. Tony was great."
+19,2020-11-28 18:06:34,"@PPathole @karpathy For a second there, I thought that was a pic of Thanos haha"
+20,2020-11-28 01:46:31,"@Poppa_BearQ @ID_AA_Carmack Yeah, truncate zeros &amp; then round"
+21,2020-11-28 01:45:22,@dburkland @ID_AA_Carmack Probably going to a wider beta in ~2 weeks
+22,2020-11-28 01:17:26,@ID_AA_Carmack fp16 with least important digits truncated (so it feels like fp32) is what we’re betting on for training with Dojo
+23,2020-11-28 00:57:58,@ID_AA_Carmack Int8 for almost all heavy lifting in inference works great
+24,2020-11-26 19:27:13,@thisisjendoll But actually! https://t.co/lb14pKsayI
+25,2020-11-26 19:26:22,@thisisjendoll https://t.co/mMg5b8b40z
+26,2020-11-26 15:12:00,Happy Thanksgiving!
+27,2020-11-26 05:43:01,@teslaownerssv @JohnEG78 @TeslaChillMode @UNPLGD3 @MFrunker @ccteslaclub Hopefully next month
+28,2020-11-26 05:40:57,@JohnEG78 @TeslaChillMode @UNPLGD3 @MFrunker @ccteslaclub Ok. Overall air suspension height &amp; damping algorithm is… https://t.co/opgo08vd4Y
+29,2020-11-26 05:38:31,@karpathy Haha true
+30,2020-11-26 05:37:34,@HumanoidHistory The Promise is greatly needed
+31,2020-11-25 23:45:24,"@EvaFoxU We will have special colors for new Roadster, as we did for the original"
+32,2020-11-25 22:16:02,@RationalEtienne @TheBabylonBee 🤣🤣
+33,2020-11-25 20:38:25,.@TheBabylonBee is savage 🤣🤣
+34,2020-11-25 18:12:04,@WorldAndScience If you ever wondered where we came from
+35,2020-11-25 02:12:17,"This is a life leader launch, so more risk than normal https://t.co/EtFP9IELrf"
+36,2020-11-25 00:18:27,"@TesLatino @flcnhvy @thesheetztweetz Yes, but only slightly filled"
+37,2020-11-25 00:16:50,@aholstein404 @flcnhvy @thesheetztweetz This is a subject of much debate
+38,2020-11-25 00:15:56,@flcnhvy @thesheetztweetz Major upgrades are slated for SN15
+39,2020-11-25 00:13:02,"@flcnhvy @thesheetztweetz Many small improvements, but overall similar. Wiring is more robust, engines are more mat… https://t.co/7oFbmY1N25"
+40,2020-11-25 00:08:00,@thesheetztweetz But that’s why we have SN 9 &amp; SN10
+41,2020-11-25 00:07:24,"@thesheetztweetz Lot of things need to go right, so maybe 1/3 chance"
+42,2020-11-24 23:59:27,Good Starship SN8 static fire! Aiming for first 15km / ~50k ft altitude flight next week. Goals are to test 3 engin… https://t.co/7OjorqNhb6
+43,2020-11-24 19:23:27,@Erdayastronaut @MarcusHouseGame Maybe start on that a year from now. Depends on how Starship progress goes.
+44,2020-11-24 19:22:45,@RationalEtienne @MarcusHouseGame Not yet
+45,2020-11-24 18:54:33,@StarshipFairing @MarcusHouseGame Not bad! We will definitely need more engines if we make the cargo bay all propel… https://t.co/j2uVULTatv
+46,2020-11-24 18:49:12,"@MarcusHouseGame Rapid &amp; complete rocket reuse, low cost propellant, orbital refilling &amp; propellant production at d… https://t.co/UmyUR7yShY"
+47,2020-11-24 06:45:43,@Erdayastronaut @PPathole @Teslarati @TeslaRoadTrip Yes
+48,2020-11-24 03:20:27,"@PPathole @Teslarati @TeslaRoadTrip We’re still far from simply video in, control out. The biggest game-changer, cu… https://t.co/nb5Hl7gzlx"
+49,2020-11-24 02:30:47,@Teslarati @TeslaRoadTrip FSD Beta 5 coming out in a few days. Improvement should be significant.
+50,2020-11-23 22:45:12,@XHNews Exciting mission!
+51,2020-11-23 21:12:28,@vincent13031925 @Tesla Wow
+52,2020-11-23 06:56:32,@Liv_Boeree Yea
+53,2020-11-22 03:42:11,"Tomorrow will be the 7th flight of this rocket, landing on droneship Of Course I Still Love You"
+54,2020-11-21 21:27:06,@JohnnaCrider1 @teslaownerssv @28delayslater Sure
+55,2020-11-21 21:22:09,@FutureJurvetson @flcnhvy True
+56,2020-11-21 21:12:25,@RationalEtienne @heydave7 @philwhln We have quiet a queue of products to build! Better do new Roadster at some point😬.
+57,2020-11-21 21:10:08,"@RationalEtienne @ShyCybertruck Fate loves irony, but hates hypocrisy"
+58,2020-11-21 18:09:38,"RT @NASA: Booster separation, second-engine start, and fairing separation as the U.S.-European Sentinel-6 Michael Freilich ocean-observing…"
+59,2020-11-21 17:49:30,@ICannot_Enough @heydave7 Yes 😃
+60,2020-11-21 17:48:38,@flcnhvy Our data center was named Skynet as a joke over 10 years ago. Might have been tempting fate!
+61,2020-11-21 17:47:12,@heydave7 @philwhln Tesla is a vehicle for creating &amp; producing many useful products
+62,2020-11-21 17:38:56,@NASASpaceflight Largest cast titanium part in the world. No heat shielding needed.
+63,2020-11-21 17:34:45,Landing at Vandenberg AFB in California https://t.co/46J2GcCjP0
+64,2020-11-21 17:29:57,"@tobyliiiiiiiiii @SpaceX @NASA @NASA_LSP @NASAJPL @esa Actually, off to the side (so it doesn’t take out the launch… https://t.co/Fr9aUCYWCO"
+65,2020-11-21 17:28:32,@tobyliiiiiiiiii @SpaceX @NASA @NASA_LSP @NASAJPL @esa Where it should be!
+66,2020-11-21 16:33:40,"@philwhln @heydave7 Because I am not an investor. Tesla is definitely not the only good company, but investing is n… https://t.co/wDUz0wnuIn"
+67,2020-11-21 16:30:40,"Well, almost anything https://t.co/FFPVDsqruC"
+68,2020-11-21 14:44:07,Quite the day ahead https://t.co/apZNgmo0k7
+69,2020-11-21 14:39:18,RT @SpaceX: Crew-1’s view of Earth during Dragon’s flight to the @space_station https://t.co/lQW6TYmpB7
+70,2020-11-21 06:19:36,@NASAaero @LockheedMartin Now *this* is what you’d call pointy!
+71,2020-11-21 04:43:51,@cleantechnica Cool
+72,2020-11-21 04:36:51,"@Astro_Fonseca @Space_Station @wonderofscience @VirtualAstro They’re moving at ~25 times the speed of sound, but it feels like nothing"
+73,2020-11-21 03:31:02,@WorldAndScience https://t.co/XAJaN4j9ZR
+74,2020-11-20 20:06:46,@vicentes @EvaFoxU @PPathole @mirojurcevic @TashaARK @Space_Station There will always be upgrades
+75,2020-11-20 20:00:35,@EvaFoxU @PPathole @mirojurcevic @TashaARK @Space_Station It will be better than human vision by quite a margin
+76,2020-11-20 19:57:48,@enn_nafnlaus @mirojurcevic @TashaARK @Space_Station Reality looks like a strange ghost-world at radar wavelengths.… https://t.co/DMGov9rcnu
+77,2020-11-20 19:55:10,@PPathole @mirojurcevic @TashaARK @Space_Station Exactly
+78,2020-11-20 18:03:45,@mirojurcevic @TashaARK This is a misperception. SpaceX developed &amp; continues to use lidar for Dragon docking with… https://t.co/3I0bWGjlQp
+79,2020-11-20 17:55:42,@PhilippeCROIZON @SpaceX One day we will fly you on Starship
+80,2020-11-20 16:02:44,@Peter_J_Beck Well done!
+81,2020-11-20 15:49:13,"@hisdirtremoves @SpaceX I can’t comment on turbopump internal details, but you’re roughly in the ballpark. Wow, roc… https://t.co/0SRlFg03Fg"
+82,2020-11-20 15:43:39,"@TashaARK To be clear, this was just an XPeng problem. Other companies in China have not done this."
+83,2020-11-20 15:24:26,"@IsaacLatterell @TashaARK @karpathy Andrej is awesome, but it should be said that we have a very talented Autopilot… https://t.co/64ocngk3ey"
+84,2020-11-20 15:20:10,"@spacetouristuk @TashaARK Yeah. They stole Apple’s code too.
+https://t.co/gy4DT7Pq9N"
+85,2020-11-20 15:14:03,@TashaARK They have an old version of our software &amp; don’t have our NN inference computer
+86,2020-11-20 02:51:15,@levie Wild times!
+87,2020-11-20 02:46:39,@RocketLab Congrats!
+88,2020-11-20 01:10:49,@slashdot .@TheOnion
+89,2020-11-19 21:04:15,@ID_AA_Carmack Yup
+90,2020-11-19 21:02:15,"@flcnhvy Change out a few parts, otherwise fine"
+91,2020-11-19 17:56:28,@Forbes Caution strongly advised with SPACs
+92,2020-11-19 17:02:49,@AdamKIotz @Suvitruf @archillect Sure
+93,2020-11-19 15:36:29,@Suvitruf @archillect Haha sexy cropping champion of all time
+94,2020-11-19 15:17:04,"@tweetmenima @teslaownerssv If next week’s release looks good, we will widen beta"
+95,2020-11-19 15:14:05,"@justpaulinelol @teslaownerssv Unfortunately, there are too many rules around liquor distribution, even in the US.… https://t.co/kvHlbueE1u"
+96,2020-11-19 15:11:03,"@teslaownerssv Next week’s release is special. Lot of fundamental improvements, both important bug fixes &amp; entire n… https://t.co/BV5STdWNgj"
+97,2020-11-19 05:24:26,@westcoastbill @SpaceX 13 years &amp; $11 billion … wow
+98,2020-11-19 03:31:56,@OwenSparks_ @flcnhvy @Tesla Safety is our primary design goal
+99,2020-11-19 01:22:22,@PPathole @AstroJordy @flcnhvy Fully
+100,2020-11-18 23:47:04,@Astronomiaum Let the Martians decide their own future
+101,2020-11-18 23:34:26,@shifthappends @Tesla A lot of my brain space is spent dealing with both units!
+102,2020-11-18 23:29:52,"@Astronomiaum Terraforming will be too slow to be relevant in our lifetime. However, we can establish a human base… https://t.co/uygaAE7g3r"
+103,2020-11-18 18:30:16,@PPathole @xDreamCoding @garyblack00 That is certainly the intention!
+104,2020-11-18 17:34:50,@xDreamCoding @garyblack00 https://t.co/fREZwjCwNa
+105,2020-11-18 17:31:40,@garyblack00 The only publicly traded stock I own is Tesla
+106,2020-11-18 17:31:01,@garyblack00 Wise words from Bogle. The point of companies is products &amp; services. They have no point in &amp; of thems… https://t.co/eNCU8cBLpy
+107,2020-11-18 16:45:53,"@teslaownerssv @AstroJordy @flcnhvy No, just a mild cold. Same with my bro. Def had cov2 though. Pc&lt;20 means viral… https://t.co/UySAnpqtFI"
+108,2020-11-18 16:42:36,"@Astronomiaum Life in glass domes at first. Eventually, terraformed to support life, like Earth."
+109,2020-11-18 16:29:29,@AstroJordy @flcnhvy Yeah
+110,2020-11-18 16:09:50,"@Daywalker_xD @Astronomiaum I was going to say “Sim!”, but that seemed too obvious haha"
+111,2020-11-18 15:44:23,@Astronomiaum Deveras!
+112,2020-11-18 08:29:05,"@flcnhvy And cases with high (non-infectious) Ct should quarantine for a few days, while getting another test. Seco… https://t.co/oAlvZwCMIO"
+113,2020-11-18 08:10:13,@tobyliiiiiiiiii So many things you want &amp; some you didn’t know you wanted
+114,2020-11-18 07:43:46,@nichegamer Maybe a little Mercy … https://t.co/9iE40HOihr
+115,2020-11-18 07:41:37,Tesla holiday software release is 🔥🔥
+116,2020-11-18 07:37:39,@StaceyR28715306 @Maisie_Williams 😏
+117,2020-11-18 07:09:54,Cobra Kai is a deep cut
+118,2020-11-18 07:02:30,@archillect It’s all cake &amp; someone took a bite
+119,2020-11-18 06:42:59,@nichegamer There is such a thing as too much sentience
+120,2020-11-17 22:07:17,Deus ex machine learning https://t.co/5ZSYalVczx
+121,2020-11-17 21:02:30,"@peterrhague It’s designed to make life multiplanetary, otherwise extreme overkill for mere Earth sector activity!… https://t.co/yjLTT8pEEu"
+122,2020-11-17 20:02:15,@Kristennetten @royalsociety More like he gave it his blessing. It was sort of a groundswell of those who believed… https://t.co/fwK1ziHfEg
+123,2020-11-17 19:20:28,Nullius in Verba @royalsociety
+124,2020-11-17 18:48:50,@westcoastbill Indeed
+125,2020-11-17 18:45:21,@ReflexFunds @nickidk4 @pcgamer Dojo/Doge
+126,2020-11-17 18:43:41,"@PPathole @Erdayastronaut @rweb11742 Yeah, looks like marginal cost of launch will be less than $1M for more than 1… https://t.co/rNSJ5FkDXT"
+127,2020-11-17 18:38:15,@speculawyer @Erdayastronaut @rweb11742 Exactly
+128,2020-11-17 18:28:52,"@Erdayastronaut @rweb11742 Merlin is a strong local maximum design, but kerosene is suboptimal fuel, no matter what… https://t.co/JoetYsKGp7"
+129,2020-11-17 17:32:54,"@parstalberg @josh_bickett @ICannot_Enough @Erdayastronaut @rweb11742 Yes, but from a visiting American. Ah, the irony is just too much!!"
+130,2020-11-17 17:10:30,"@josh_bickett @ICannot_Enough @Erdayastronaut @rweb11742 Yeah, PCR Ct was unequivocal at &lt;20. Doesn’t matter what m… https://t.co/YJdogoKX8Q"
+131,2020-11-17 17:08:01,@flcnhvy @LUGG4S1 @pcgamer Maybe making some notable changes. Will wait until figurative &amp; literal dust settles.
+132,2020-11-17 17:05:37,"@ICannot_Enough @Erdayastronaut @rweb11742 Pretty close. Definitely feel 💯 if I take DayQuil. Frankly, this was one… https://t.co/hj0ThLR48N"
+133,2020-11-17 16:54:09,@LUGG4S1 @pcgamer Avionics cables moving to steel pipe shields &amp; adding water-cooled steel pipes to test pad
+134,2020-11-17 16:49:43,"@LUGG4S1 @pcgamer About 2 secs after starting engines, martyte covering concrete below shattered, sending blades of… https://t.co/vilv1S16Yo"
+135,2020-11-17 16:42:19,@Erdayastronaut @rweb11742 The most amazing thing about rocket engines is that they *sometimes* don’t blow up! The… https://t.co/EUXoocFR9T
+136,2020-11-17 16:33:09,@pcgamer We should just count the atoms at this point
+137,2020-11-17 16:20:08,@DJSnM @Erdayastronaut @CharlesNOtrumps @rweb11742 Absolutely. Production/testing of rocket engines is over 90% of… https://t.co/Tv3piXzp4I
+138,2020-11-17 16:10:22,@Erdayastronaut @CharlesNOtrumps @rweb11742 Our first Merlin engine design was really bad tbh. Nothing worked well… https://t.co/Y5njREPvtc
+139,2020-11-17 15:58:51,@billhuang688 @JohnnaCrider1 @timmerenginerd @jack Maybe *I* just love irony haha
+140,2020-11-17 15:57:41,"@GreenIsClutch @JohnnaCrider1 @timmerenginerd @jack They’re on their way! Hopefully, more Teslaquila next month."
+141,2020-11-17 15:54:47,@ChrisG_NSF Special permission received from Stonecutters Guild! https://t.co/SW5RBm1sRB
+142,2020-11-17 15:46:44,@JohnnaCrider1 @timmerenginerd @jack Fate 🖤 Irony
+143,2020-11-17 15:41:36,@jack Well said.
+144,2020-11-17 06:54:03,"@trylolli @Maisie_Williams 👻 💵 
+https://t.co/UWerAhxUev"
+145,2020-11-17 05:15:10,"@Erdayastronaut @rweb11742 Damn, that’s not easy! I spent quite a bit of time looking at Russian/Ukrainian engines. They’re good."
+146,2020-11-17 04:37:18,@PPathole @michaelmina_lab Yes
+147,2020-11-17 04:19:03,RT @SpaceX: Docking confirmed – Crew Dragon has arrived at the @space_station!
+148,2020-11-16 22:02:51,@Maisie_Williams 🎶 Toss a bitcoin to ur Witcher 🎶
+149,2020-11-16 21:34:57,@Kristennetten 😉
+150,2020-11-16 21:19:59,"RT @NASA: 🐉 Enter the Crew Dragon. At 4:48 p.m. EST (9:48 p.m. UTC), the NASA @SpaceX Crew-1 astronauts give you a LIVE tour of their space…"
+151,2020-11-16 19:46:00,"@WhatsupFranks @michaelmina_lab CureVac, Moderna &amp; a few others. Tesla makes the machine CureVac uses to go from kn… https://t.co/kVEPRq79Rl"
+152,2020-11-16 19:37:38,@michaelmina_lab Creating synthetic mRNA for cures/vaccines is the future of medicine imo. Turns it (mostly) into a… https://t.co/Yp7djaWikS
+153,2020-11-16 19:29:04,@gaertner_anne @Neuro_Skeptic @DresdenTea @judith_herbers Haha
+154,2020-11-16 19:20:08,@michaelmina_lab Great thread
+155,2020-11-16 19:07:06,"@SamTalksTesla I’m ok, thanks for asking. No symptoms for past few days, apart from fatigue. Unless something chang… https://t.co/S8EO2xB2sf"
+156,2020-11-16 01:09:01,♥️
+157,2020-11-16 00:23:02,Launch in 5 minutes
+158,2020-11-16 00:13:05,"@flcnhvy Yeah, with cooling channels integrated into the chamber walls"
+159,2020-11-16 00:00:41,"The same propellant is used either for abort or for orbital maneuvering, as one use obviates the other"
+160,2020-11-15 23:58:27,"Dragon can also hover &amp; land propulsively, but we use the parachutes for maximum safety https://t.co/Mr7VFIQwWf"
+161,2020-11-15 23:55:43,"Thrusters are integrated with spacecraft, enabling abort capability all the way to abort for increased safety https://t.co/KrOHKOr6AE"
+162,2020-11-15 23:36:05,RT @NASA: What song would you play on your ride out to the launch pad? #LaunchAmerica https://t.co/vzhxUn6Yie
+163,2020-11-15 23:31:22,RT @SpaceX: Dragon has completed 22 flights to and from the @space_station. It was designed from the beginning with human spaceflight in mi…
+164,2020-11-15 23:31:11,RT @SpaceX: Dragon is the only spacecraft currently flying capable of returning significant amounts of cargo to Earth and is the first priv…
+165,2020-11-15 22:58:51,RT @SpaceX: SpaceX’s custom-tailored suits route the communications and cooling systems and protect the crew in the event of cabin depressu…
+166,2020-11-15 21:41:58,"RT @NASA: LIVE NOW: We are ready to #LaunchAmerica. Are you? 🚀
+
+Watch coverage of the NASA @SpaceX Crew-1 mission. Liftoff is at 7:27pm ET:…"
+167,2020-11-15 21:41:36,RT @SpaceX: Watch Falcon 9 launch Crew Dragon on its first operational mission to the @space_station with astronauts on board → https://t.c…
+168,2020-11-15 16:02:04,@tboneagnoobs Ok
+169,2020-11-15 15:00:27,RT @SpaceX: All systems are go for tonight’s launch at 7:27 p.m. EST of Crew Dragon’s first operational mission with four astronauts on boa…
+170,2020-11-15 14:51:24,"@KlotzAdam @PPathole @AstroJordy @erujabidi Yeah, I feel pretty normal. No symptoms right now. Last week, I had sym… https://t.co/gL0mhrqJxY"
+171,2020-11-15 14:44:50,"@PPathole @AstroJordy @erujabidi Doing tests from several different labs, same time of day, administered by RN &amp; am… https://t.co/hajhh7La7Q"
+172,2020-11-15 14:21:29,"@PPathole @Mario_Livio Both obv insanely great, too bad they had this pointless argument"
+173,2020-11-15 14:13:45,Astronaut launch today! https://t.co/3FAzZGss8c
+174,2020-11-15 14:12:00,"RT @NASA: 🌸 @Astro_Soichi has a message for boys and girls in Japan: ""Space is waiting!"" 
+
+In this @Tumblr Spotlight, @JAXA_en astronaut So…"
+175,2020-11-15 09:02:07,"RT @NASA: This week...
+
+🚀 NASA's @SpaceX Crew-1 astronauts arrive at @NASAKennedy ahead of launch
+🔴 Our @NASAPersevere rover marks 100 days…"
+176,2020-11-15 09:00:53,"RT @Astro_Soichi: #SpaceX #NASA #Crew1 just finished final dress rehearsal, getting ready for Saturday launch! Behind me is ""real"" #Dragon…"
+177,2020-11-15 06:39:49,@Mario_Livio No kids though
+178,2020-11-15 05:39:26,@Mario_Livio Hell of a wig collection too
+179,2020-11-15 03:37:19,@michaelmina_lab It would be great if labs could give people this level of granular feedback in their results
+180,2020-11-15 03:19:00,RT @michaelmina_lab: @elonmusk Great question! It’s more complex question and depends on why the test is being used - ie: do you want to kn…
+181,2020-11-15 02:52:28,Worth reading this thread if you’re curious about rona testing https://t.co/FA6kD61eBA
+182,2020-11-15 02:39:19,"@stonkmanup @michaelmina_lab They should be imo. If you get a blood pressure test, they tell you the number, not ju… https://t.co/tWl0Dgurmk"
+183,2020-11-15 00:42:50,"@AstroJordy @erujabidi A little up &amp; down. Feels just like a regular cold, but more body achy &amp; cloudy head than co… https://t.co/ihVPeox7m6"
+184,2020-11-15 00:37:50,"@michaelmina_lab In your opinion, at what Ct number for the cov2 N1 gene should a PCR test probably be regarded as… https://t.co/emuXLx698G"
+185,2020-11-14 23:49:24,@michaelmina_lab @stendeck77 !
+186,2020-11-14 23:09:27,"@teslaownerssv Cool, but please be super cautious. Expect two steps forward, one back. Lot of new code was merged."
+187,2020-11-14 22:43:18,@austinbarnard45 Just a scratch. We can buff it out.
+188,2020-11-14 22:42:35,"@erujabidi Am getting wildly different results from different labs, but most likely I have a moderate case of covid… https://t.co/XLBAHahJOj"
+189,2020-11-14 21:33:02,@WhatsupFranks @lexfridman NPCs all the way up
+190,2020-11-14 20:25:34,@lexfridman Ahem
+191,2020-11-14 20:13:06,Unless you’re on DMT
+192,2020-11-14 20:11:13,"Laws of thermodynamics:
+1. You can’t win
+2. You can’t break even
+3. You can’t stop playing"
+193,2020-11-14 19:51:56,Shakes fist at entropy
+194,2020-11-14 16:10:16,@RealNattastic Big expansion of beta program in 6 to 8 weeks!
+195,2020-11-14 08:45:04,@robintosh_nunez @PPathole Interesting. My Thursday night saliva sample came back today with N1 gene (unique to cov… https://t.co/Tm7cs8oTdT
+196,2020-11-14 08:26:05,@ICannot_Enough @JohnnaCrider1 What’s honey?
+197,2020-11-14 06:33:48,@slashdot Feels that way
+198,2020-11-14 06:24:19,@WhatsupFranks @bluemoondance74 @StephenKing This seems accurate
+199,2020-11-14 06:11:36,@bluemoondance74 @StephenKing Cold symptoms are gone for now 😀🚀💫
+200,2020-11-14 05:00:38,@StephenKing There are degrees of pos
+201,2020-11-14 00:43:52,@MrSammy_H @pelagicbird @max_roi @rossy65 Heneghan makes a lot of sense. Hilarious that he has to clarify that he r… https://t.co/MlXngcSA9T
+202,2020-11-14 00:31:54,@WhatsupFranks The number of PCR amplification cycles required to detect the virus is a rough indicator of your vir… https://t.co/mn8192hUeQ
+203,2020-11-13 23:32:16,@MrSammy_H @max_roi @rossy65 This a great reference! Worth a read.
+204,2020-11-13 23:22:43,Case closed https://t.co/pUYiJcAdD6
+205,2020-11-13 23:15:38,Soon https://t.co/mWOpR7W8kk
+206,2020-11-13 22:21:06,"@PPathole Fwiw, lab I just spoke to thinks below 30 is accurate, 30 to 40 gets dicey &amp; above 40 is bs. Will talk to… https://t.co/K77wXQ11yt"
+207,2020-11-13 21:47:44,Lab I just spoke to said cov2 PCR detection (N1 &amp; N3 genes) below 30 cycles is reliable &amp; above 40 cycles is not
+208,2020-11-13 21:42:34,"@RationalEtienne @ryaneshea Note, this is not the spike protein. They don’t consider that reliable."
+209,2020-11-13 21:41:59,"@RationalEtienne @ryaneshea Just spoke directly to a testing lab. Their main PCR search is for the N1 gene, unique… https://t.co/x57OdvDAuO"
+210,2020-11-13 19:39:18,@PPathole Strange
+211,2020-11-13 19:28:31,@ryaneshea Possible explanation for the dramatic decline in cold &amp; flu prevalence vs prior years. If someone comes… https://t.co/gMLVEwwXDP
+212,2020-11-13 19:25:10,"@ryaneshea Moreover, lower the true prevalence, the higher the false positive number will be. This sounds obvious,… https://t.co/XvAbEkLh1q"
+213,2020-11-13 19:21:54,@ryaneshea From https://t.co/42z7vRPB9c https://t.co/XTSukcc3Tl
+214,2020-11-13 17:55:05,@dana_e_morgan Sure is
+215,2020-11-13 17:41:59,Would be great to hear from people who know a lot about the PCR testing industry. What’s the approximate false posi… https://t.co/lVc11nIkql
+216,2020-11-13 17:07:09,@ClareCraigPath Interesting
+217,2020-11-13 17:04:52,@john_beans @DirtyTesla Interesting
+218,2020-11-13 16:28:32,What is the general population (no knowledge of symptoms) accuracy of a sars-cov2 PCR test &amp; is it possible to gene… https://t.co/VbIU7ds4UQ
+219,2020-11-13 12:17:36,"@PPathole @cleantechnica A good PCR test should identify if I have the cov2 spike proteins, although I have heard s… https://t.co/M8Vj2gaOfs"
+220,2020-11-13 11:23:04,"@justpaulinelol @cleantechnica Mild sniffles &amp; cough &amp; slight fever past few days. Right now, no symptoms, although I did take NyQuil."
+221,2020-11-13 11:16:45,"@cleantechnica Technically, I tested positive, then negative twice, then positive again, so “Elon Musk Tests Negati… https://t.co/6ohTA09S5l"
+222,2020-11-13 06:11:57,The carousel turns ever faster
+223,2020-11-13 06:08:20,@JoeInGeneral @andrewbogut Yup
+224,2020-11-13 05:57:52,@ajtourville Exactly
+225,2020-11-13 05:52:01,@JaneidyEve Symptoms of a typical cold. Nothing unusual so far.
+226,2020-11-13 05:50:29,"@BLKMDL3 If it’s happening to me, it’s happening to others. I’m getting PCR tests from separate labs. Results will take about 24 hours."
+227,2020-11-13 05:47:11,"Something extremely bogus is going on. Was tested for covid four times today. Two tests came back negative, two cam… https://t.co/Z2V15u7Zcf"
+228,2020-11-13 03:26:57,"@austinbarnard45 Burst disk worked, so vehicle appears to be ok. We’ll have to swap out at least one of the engines."
+229,2020-11-13 02:18:11,@tobyliiiiiiiiii @SpacePadreIsle @austinbarnard45 Maybe melted an engine preburner or fuel hot gas manifold. Whatev… https://t.co/5elyX8PjlG
+230,2020-11-13 02:09:00,@austinbarnard45 We lost vehicle pneumatics. Reason unknown at present. Liquid oxygen header tank pressure is risin… https://t.co/SZc90HnTi8
+231,2020-11-12 23:06:29,@DrPhiltill 🤣🤣👍
+232,2020-11-12 16:21:37,"RT @Teslarati: Tesla tops list of 2020’s Most Attractive Employers for US engineering students
+https://t.co/KKNYQlet0o"
+233,2020-11-12 15:34:36,4 Astronauts fly to @Space_Station on Sat night from Cape. First operational flight of Crew Dragon. https://t.co/uZCGiKciKb
+234,2020-11-12 15:23:01,@Cardoso Luck is the best superpower
+235,2020-11-12 01:27:27,RT @SpaceX: Thank you to all those who have served and sacrificed #VeteransDay https://t.co/U8kN4FZpJ9
+236,2020-11-11 13:31:25,RT @SpaceX: Crew access arm swings into place https://t.co/XAImd6nLJV
+237,2020-11-11 04:38:41,@hiromichimizuno Yes
+238,2020-11-10 22:02:09,@Kristennetten It is an honor that they would choose to work with me. I strive to ensure that the companies enable… https://t.co/OTdwCSk3cK
+239,2020-11-10 21:24:38,Such a privilege to work with people I like &amp; respect so much. I feel blessed.
+240,2020-11-10 20:12:58,"RT @Commercial_Crew: The Flight Readiness Review for the Crew-1 mission to the @Space_Station has concluded, and @NASA and @SpaceX are GO t…"
+241,2020-11-10 16:14:36,RT @SpaceX: Falcon 9 and Crew Dragon vertical on Launch Complex 39A https://t.co/hBVUHWv3Ab
+242,2020-11-10 16:14:04,@DJSnM @DavidHuber15 @nickhenning3d @SpaceX @ErcXspace @Neopork85 @C_Bass3d @Caspar_Stanley @SpacexVision @FelixSchlang Probably
+243,2020-11-10 16:12:59,@TeslaNY @Tesla Happy to see this :)
+244,2020-11-09 23:08:21,"@SamTalksTesla @Tesla I do expect this to become an important product for the world, but probably not financially material for Tesla"
+245,2020-11-09 23:05:22,@nickhenning3d @SpaceX @ErcXspace @Neopork85 @C_Bass3d @Caspar_Stanley @SpacexVision @FelixSchlang There’s no entry… https://t.co/NCafKnfZlc
+246,2020-11-09 22:51:18,@SamTalksTesla @Tesla Tesla makes the RNA Bioreactor that can make vaccines / cures. CureVac has version 2 in use.… https://t.co/OPouohyAmu
+247,2020-11-09 22:45:24,RT @SpaceX: Crew Dragon and Falcon 9 in the hangar at Launch Complex 39A ahead of launching four astronauts to the @space_station; liftoff…
+248,2020-11-09 22:41:55,@TesLatino Checking
+249,2020-11-09 22:18:38,@pcgamer I just hope this game doesn’t twist itself to tedium out of fear of being canceled
+250,2020-11-09 18:38:23,"RT @boringcompany: Rumor has it that ""Austin Chalk"" is geologically one of best soils for tunneling. Want to find out? Austin jobs now avai…"
+251,2020-11-09 18:03:19,https://t.co/d0i2w8wNKG
+252,2020-11-09 16:57:33,"Yes, you can have my damn cookie! should be a browser setting"
+253,2020-11-09 15:39:20,@teslaownerssv @Tesla Thanks to a lot of great Autopilot/AI hardware &amp; software engineers at Tesla!
+254,2020-11-09 02:53:07,@BBCTech For sure
+255,2020-11-09 02:21:26,@MKBHD @Vyyyper Will be worth it
+256,2020-11-09 02:17:31,@MKBHD Exactly
+257,2020-11-09 02:16:15,@Model3Owners @MKBHD Sure
+258,2020-11-09 02:13:16,"@MKBHD Actually, it’s still there https://t.co/2zLKc8Fc2d"
+259,2020-11-09 01:55:55,@Ed_Spartan_117 @Tesla @NYKChannel Wait until you see what Cybertruck will do
+260,2020-11-09 00:41:29,@MKBHD This is accidental. Will be back shortly.
+261,2020-11-08 19:15:40,RT @Tesla: 20k Superchargers and counting https://t.co/urudyt9Eui
+262,2020-11-08 15:59:23,@Erdayastronaut @RenataKonkoly @SpaceNews_Inc Am hoping to change booster design to land back on launch mount with… https://t.co/HpRGPtt6ru
+263,2020-11-08 14:51:54,@Vasu42698392 @amyceskridge Chip has temp sensor &amp; automatically maintains safe temp
+264,2020-11-08 14:49:39,@reganlovetesla @RenataKonkoly @SpaceNews_Inc Enough already on my plate &amp; Tesla’s. Maybe one day will do a prototy… https://t.co/tGPWEJ7WQA
+265,2020-11-08 14:42:56,"@amyceskridge Neuralink won’t overclock the brain, it will transfer processing to the supercomputer extension of yo… https://t.co/NByBBFX0T2"
+266,2020-11-08 14:29:30,@flcnhvy @PPathole @cleantechnica We rewrote all labeling software for 4D. Very different from labeling single phot… https://t.co/mLTBdsQuTy
+267,2020-11-08 13:07:02,@PPathole @cleantechnica Version 1 is about a year away
+268,2020-11-08 11:46:46,@RenataKonkoly @SpaceNews_Inc It would appear that their calculations were incorrect
+269,2020-11-08 11:41:12,@SpaceNews_Inc China understands the profound importance of reusability. The era of expendable rockets will soon be over.
+270,2020-11-08 11:10:49,@cleantechnica ♠️♠️ Tesla Autopilot/AI team ♠️♠️
+271,2020-11-08 11:07:00,"@cleantechnica Good explanation. 4D is essential for dynamically occluded objects, especially in large intersection… https://t.co/ooJ9PqAyHj"
+272,2020-11-07 20:35:18,RT @archillect: https://t.co/5U3fNqFhr1
+273,2020-11-07 18:26:27,"The Phantom of the Opera 
+Is here … inside your mind"
+274,2020-11-06 23:41:32,@LinusTech @SpaceXStarlink @SpaceX 🇨🇦 😀
+275,2020-11-06 15:32:21,@PPathole Just looking for problem-solvers who get things done with a high sense of urgency. Don’t care if or where they went to school.
+276,2020-11-06 15:31:07,"When sending your resume, please describe a few of the hardest problems you solved &amp; exactly how you solved them"
+277,2020-11-06 10:36:02,"A New Banner is needed
+Neither hard left nor right"
+278,2020-11-06 10:23:34,@PPathole Another fine day in the simulation …
+279,2020-11-06 10:22:31,"@Nereide Faraday invented the electric motor, Tesla the (commutator-free, three-phase) AC induction motor, in other… https://t.co/cQo2rjLRBv"
+280,2020-11-06 10:18:53,"@Nereide Maxwell was amazing. Should have more recognition. Tesla Motors, Inc., was almost called Faraday, as it to… https://t.co/6y42KMCPGk"
+281,2020-11-06 06:10:41,420 is ten times better than 42
+282,2020-11-06 05:55:31,🤗
+283,2020-11-06 05:27:25,RT @SpaceX: Deployment of GPS III-4 confirmed https://t.co/fCFJRcWMti
+284,2020-11-06 05:27:21,RT @SpaceX: Falcon 9’s first stage lands on the Of Course I Still Love You droneship https://t.co/hd0IBPX3T5
+285,2020-11-06 05:27:10,RT @SpaceX: Liftoff! https://t.co/LI4O0TNmL8
+286,2020-11-05 22:39:34,@LinusTech @SpaceXStarlink @SpaceX Awaiting approval from Canadian authorities
+287,2020-11-05 09:31:58,Recruiting ace engineers for Giga Berlin! Will interview in person tomorrow on site. Send resume to 25Guns@Tesla.com.
+288,2020-11-05 07:59:44,@Chad_Hurley @realDonaldTrump @kanyewest Stop being a chad
+289,2020-11-05 07:59:11,@Chad_Hurley @realDonaldTrump @kanyewest Uh … Chad wtf
+290,2020-11-04 13:26:33,"@TechAmazing Einstein was great, but did not succeed at engineering (and he tried)"
+291,2020-11-03 18:19:08,"@jtrevorchapman Yeah, that will be relatively easy, as so few users out in the ocean"
+292,2020-11-03 15:10:08,"@ICannot_Enough @ZainRaz4 @vincent13031925 @JonErlichman Yes, although I didn’t expect the stock to rise so much so… https://t.co/TMW6phbef0"
+293,2020-11-03 15:03:24,"@FutureJurvetson @PPathole Super appreciate your support, Steve! That convertible loan gave us 6 months of runway.… https://t.co/eJ7iOVx2W4"
+294,2020-11-03 14:59:17,@ZainRaz4 @vincent13031925 @JonErlichman Closest we got was about a month. The Model 3 ramp was extreme stress &amp; pa… https://t.co/WuHekj0HIo
+295,2020-11-03 14:53:45,"@vincent13031925 @JonErlichman I put in my last money, even though I thought we would still fail. But, it was eithe… https://t.co/9bGKEz9d8a"
+296,2020-11-03 14:46:26,"@JonErlichman That funding round completed 6pm on Christmas Eve in 2008. Last hour of last day possible, as investo… https://t.co/UmfGjnkoxm"
+297,2020-11-03 01:10:20,@josh_bickett @PPathole Yes
+298,2020-11-03 01:05:28,"@PPathole Lowering Starlink terminal cost, which may sound rather pedestrian, is actually our most difficult technical challenge"
+299,2020-11-03 01:02:59,"@itshamzahkhan As soon as we get regulatory approval. Hopefully, around middle of next year."
+300,2020-11-03 01:01:50,"@thesheetztweetz Right now, it takes about 5 mins to set up, but, with future improvements, probably less than 3 mi… https://t.co/8EhBQC3FA0"
+301,2020-11-02 20:26:20,@kjell_arne @flcnhvy Canada and Norway are next after we get US out of early beta!
+302,2020-11-02 20:24:19,@enn_nafnlaus @flcnhvy Didn’t realize that was possible. No problem if there’s a way get current design Cybertruck approved in Europe!
+303,2020-11-02 20:21:28,"@flcnhvy As soon as we get country approval. This is required for each country individually, as no EU-wide approval… https://t.co/8ZBt9qJD9H"
+304,2020-11-02 19:39:37,"@jason_rassett Lower latitude states need more satellites in position, so probably January"
+305,2020-11-02 19:36:28,Several thousand more Starlink beta participation invitations going out this week
+306,2020-11-02 19:32:19,@LouisWFerreira New design is better with many minor tweaks. Even the small details matter.
+307,2020-11-02 19:29:20,@engineers_feed Haha
+308,2020-11-02 15:39:45,Very close to actual expected flight! https://t.co/ruEdIPhTil
+309,2020-11-02 14:18:19,"@Nigel_Lockyer I could not be more excited about the new supercollider! That said, while it is considerably larger,… https://t.co/s3typirk4U"
+310,2020-11-01 22:27:09,@WholeMarsBlog @steezyysosa @AustinTeslaClub @JoeTegtmeyer @peterdog15 @TXTerafactory @Terafactorytx @lqdchkn… https://t.co/pqsjZOPAj5
+311,2020-11-01 22:21:34,@steezyysosa @AustinTeslaClub @JoeTegtmeyer @peterdog15 @TXTerafactory @Terafactorytx @lqdchkn @jd_average… https://t.co/oZAzv1iGXa
+312,2020-11-01 22:20:01,@AustinTeslaClub @JoeTegtmeyer @peterdog15 @TXTerafactory @Terafactorytx @lqdchkn @jd_average @EliBurton_ Tesla Tex… https://t.co/g2INiRy9ES
+313,2020-11-01 22:06:29,@kyzcralotSxaM Yes
+314,2020-11-01 21:05:06,Penguin Random House 😴 should change the name to Random Penguin🔥
+315,2020-11-01 20:57:18,"@austinbarnard45 Sure, although it might be quite a short livestream! Lot can go wrong, but we’ll provide video, wa… https://t.co/JmOJn9HhxS"
+316,2020-11-01 20:48:13,@FNarolles @TGMetsFan98 This is what matters most
+317,2020-11-01 02:02:17,@Erdayastronaut @KlotzAdam @NASASpaceflight We’ve tested a sub-scale version in a wind tunnel with active aero clos… https://t.co/M8xZLZVSAq
+318,2020-11-01 01:54:45,@flcnhvy @RGVaerialphotos https://t.co/HEz9otgJJH
+319,2020-10-31 23:34:19,@RGVaerialphotos Lord of the …
+320,2020-10-31 22:09:40,"@TGMetsFan98 @KlotzAdam @NASASpaceflight @Erdayastronaut Yeah. Although, if it fails right at the end, some landing… https://t.co/daQDIIWB9x"
+321,2020-10-31 22:04:30,@flcnhvy @NASASpaceflight @Erdayastronaut Minor
+322,2020-10-31 22:03:59,"@KlotzAdam @NASASpaceflight @Erdayastronaut Understanding exactly how the body flaps control pitch, yaw &amp; roll duri… https://t.co/79jvi22N2R"
+323,2020-10-31 22:00:41,"@NASASpaceflight @Erdayastronaut But, a RUD right off launch pad is also possible. Fortunately, SN9 is almost ready."
+324,2020-10-31 21:59:44,"@NASASpaceflight @Erdayastronaut Stable, controlled descent with body flaps would be great. Transferring propellant… https://t.co/vPIIPpDV02"
+325,2020-10-31 07:10:51,@teslaownersSV @Kristennetten @TesLatino Every 5 to 10 days
+326,2020-10-31 07:09:21,"@Kristennetten @teslaownersSV @TesLatino Faults will never be zero, but at some point the probability of a fault wi… https://t.co/INU2XAJD7u"
+327,2020-10-31 07:03:27,@teslaownersSV @TesLatino We measure this primarily in intervention probability. This update addressed several issu… https://t.co/zyF8EFD6IH
+328,2020-10-31 06:52:10,"@TesLatino Thanks to a great Autopilot/AI team working super hard! 
+
+Doing “neural nets” without testing them again… https://t.co/mnN6S3srrE"
+329,2020-10-31 06:43:02,@auchenberg Latency will improve significantly soon. Bandwidth too.
+330,2020-10-31 06:31:50,@teslaownersSV This build should be noticeably better with interventions
+331,2020-10-31 01:00:56,@RationalEtienne @teslaownersSV @toadmeister Yes
+332,2020-10-31 00:42:25,"@teslaownersSV @toadmeister I’ve spent more than half my life in California &amp; love the state. But, frankly, I think… https://t.co/s5xouoedjT"
+333,2020-10-31 00:35:31,@toadmeister And … Sweden is still right with zero deaths Oct 29 https://t.co/b0LyGOtobI
+334,2020-10-31 00:30:05,"@TOCNewYorkState True. Also, fewer heart attacks, as way easier to pump blood in 37% gravity."
+335,2020-10-31 00:28:12,"@MalekKhelifi24 @9inety6Prince @engineers_feed Now we’re talking. Also, Stephenson 2-18 is in the constellation Scrotum haha."
+336,2020-10-30 22:47:41,@engineers_feed Small fry. The sun converts over 4 million tons of mass to energy every second.
+337,2020-10-30 20:21:32,@WholeMarsBlog Accurate
+338,2020-10-30 05:55:47,@ajtourville @EndelSound @Grimezsz https://t.co/2hx6tlA8F7
+339,2020-10-30 03:05:46,@bluemoondance74 @SpacePadreIsle Some challenges with high winds. Looks like Sunday for static fire.
+340,2020-10-30 02:46:57,@SpacePadreIsle Great shot!
+341,2020-10-29 23:41:21,@EndelSound @Grimezsz Future AI will appreciate this
+342,2020-10-29 18:41:35,@Teslarati Truth is stranger than fiction
+343,2020-10-29 18:39:20,@waitbutwhy 😉
+344,2020-10-29 04:53:16,@universal_sci Urf is so smōl
+345,2020-10-29 04:48:28,@homantse28 For a long time
+346,2020-10-29 04:45:51,"Truth be told, I’ve eaten at JitB many times over the years, even the teriyaki bowl"
+347,2020-10-29 04:40:07,Might buy a Jack in the Box footstool
+348,2020-10-29 01:11:44,"@skorusARK Approximately, log(rate)"
+349,2020-10-29 01:01:43,"@challengerST Same bot, just change setting to “combat”"
+350,2020-10-29 01:00:44,"@SamTalksTesla Well, being a phased array antenna, it is actually rather flat!"
+351,2020-10-29 00:11:03,Tesla should make 🔥 catgirl robots?
+352,2020-10-28 18:04:47,@MachinePix Little crane: “Am I just a toy to you!?”
+353,2020-10-28 03:13:00,@coffeemaestro_ 🤣🤣
+354,2020-10-28 03:08:02,"Come here … no, come, here 👇"
+355,2020-10-28 03:02:07,"Wow, this mayo sure is salty!"
+356,2020-10-28 03:00:52,@PPathole @pcgamer Max Payne was great on many levels. Silent Hill good too.
+357,2020-10-28 02:18:17,Jack in the Box should do double duty as a sperm donor clinic — name is 👌
+358,2020-10-28 00:19:44,@TheWPMontgomery @pcgamer One of the best games ever
+359,2020-10-28 00:18:06,@ThatDudeShannon @pcgamer FEAR 1 with modern graphics &amp; sound would rock
+360,2020-10-28 00:16:43,@1matthewgarcia @pcgamer Ok :)
+361,2020-10-28 00:09:03,@ZZCOOL @pcgamer All games in this thread are far scarier &amp; more creatively so than any horror movie
+362,2020-10-28 00:05:57,@pcgamer FEAR 2 is best imo. Also Dead Space 2. They will haunt your dreams.
+363,2020-10-27 23:39:31,@rakyll https://t.co/p1aGokwQpV
+364,2020-10-27 22:50:08,"@jgrano305 @flcnhvy To the best of my knowledge, literally zero equipment was usable without major repairs or upgra… https://t.co/VrWvoP79qD"
+365,2020-10-27 22:43:55,@flcnhvy All that was left were broken bots &amp; equipment hardly worth the scrap metal value. But we scrounged up spa… https://t.co/yWQqaSrBt8
+366,2020-10-27 22:38:11,@flcnhvy And there were actually zero employees in the factory after GM/Toyota left. They took all good equipment &amp;… https://t.co/C7dfuasTPm
+367,2020-10-27 22:33:21,@ajtourville Bettern nothin or ur 💰 back!
+368,2020-10-27 07:03:44,@WholeMarsBlog 💫 🛰
+369,2020-10-27 03:06:30,@HyperChangeTV Tesla team has done great work!
+370,2020-10-26 23:19:16,"@HyperChangeTV Well, tbh, our capex efficiency in 2017 was trash 😬"
+371,2020-10-26 04:13:50,@westcoastbill Testing for covid is a license to print money
+372,2020-10-25 23:39:41,"@arctechinc @Tesla Yes, very helpful. Thanks all beta testers!"
+373,2020-10-25 23:02:15,@Erdayastronaut Video training &amp; inference is essential for excellent autonomy
+374,2020-10-25 01:48:59,"@engineers_feed Sigh … there should be a new supersonic jet, this time electric"
+375,2020-10-25 01:26:56,@WorldAndScience Critical to humanity’s future
+376,2020-10-24 22:46:56,Congratulations SpaceX Team! https://t.co/nO1Z98a94f
+377,2020-10-24 09:46:52,@TesLatino Mine is a few days ahead
+378,2020-10-24 05:30:19,"@EliBurton_ @teslaownersSV Sure, it could be an option in settings"
+379,2020-10-24 05:28:09,@teslaownersSV Visualization will tone down significantly for production. These are intentionally strident colors.
+380,2020-10-23 21:01:14,@Erdayastronaut @tobyliiiiiiiiii @austinbarnard45 @SuperclusterHQ Sure
+381,2020-10-23 20:33:37,"@Erdayastronaut @tobyliiiiiiiiii @austinbarnard45 @SuperclusterHQ I’m in Boca every week, so maybe we could talk th… https://t.co/Vb4WD40bsC"
+382,2020-10-23 19:55:22,@tobyliiiiiiiiii @austinbarnard45 @SuperclusterHQ Good point. Probably next week in form of a written piece on SpaceX website.
+383,2020-10-23 19:51:20,@austinbarnard45 @SuperclusterHQ Great pics! That we now have the beginnings of a Starship production system is most meaningful.
+384,2020-10-23 12:04:39,"@WholeMarsBlog Yup. With beta updates, there’ll be a lot of 2 steps fwd, 1 step back situations, but pace of improv… https://t.co/H2xcSVnGdO"
+385,2020-10-23 11:59:33,@bart_sanders Working on it. Also needs to be able fart at other cars on command.
+386,2020-10-23 00:54:02,@SpacePadreIsle Starship is coming together!
+387,2020-10-22 22:00:02,Price change is pushed to Thursday next week. Applies only to US for now. One week clock will start in other countr… https://t.co/cjhTxCseLt
+388,2020-10-22 21:53:54,@austinbarnard45 There will be a 360 deg glass Star Bar (name tbd) at top of high bay
+389,2020-10-22 20:33:06,"@DMC_Ryan Well, we have said many times that the price will rise as the product functionality improves. How much ti… https://t.co/xMeMO5Nu0M"
+390,2020-10-22 19:21:23,@StephenKing Agreed. Are these performance tires?
+391,2020-10-22 16:23:06,"@SpaceX Just a small-seeming issue with loss of upper stage camera. Probably nothing serious, but standing down to… https://t.co/ZK1vR9xWZL"
+392,2020-10-22 07:01:37,@flcnhvy Sure
+393,2020-10-22 06:30:28,"Now that Tesla FSD beta is out in limited release, FSD price (new or upgrade) will go up by ~$2k on Monday"
+394,2020-10-22 06:11:30,@TeslaGong @PPathole @teslaownersSV @tesla_raj As soon as we complete testing &amp; regulators approve. So many differe… https://t.co/d4uoA1jnCX
+395,2020-10-22 06:05:21,@PPathole @teslaownersSV @tesla_raj Yes
+396,2020-10-22 04:59:16,@teslaownersSV @tesla_raj Haha
+397,2020-10-22 00:40:52,@Teslarati Dependent on proving high safety
+398,2020-10-21 23:33:40,@WholeMarsBlog Not intentional! We just wanted to show that you could theoretically convert the entire US vehicle f… https://t.co/PcZpbD8JJ6
+399,2020-10-21 23:26:22,"@Erdayastronaut Cold gas for now, hot later"
+400,2020-10-21 20:16:21,"@Rubix161 I mean, ya gotta have a tiki bar …"
+401,2020-10-21 20:13:20,"Starship nosecone, high bay &amp; tiki bar https://t.co/9qXYxMMIUj"
+402,2020-10-21 18:08:43,@IEEEorg …
+403,2020-10-21 02:55:44,@Erdayastronaut After it gets to orbit a few times
+404,2020-10-21 02:37:56,@Erdayastronaut Got a little melty tbh :)
+405,2020-10-21 01:33:50,"@Erdayastronaut Those engines could go 300 bar, but would be dicey. Pushing it for near-term tests doesn’t achieve… https://t.co/pULPf49me1"
+406,2020-10-21 00:21:30,@Erdayastronaut Raptor has now run for 90 secs at 300 bar chamber pressure before encountering issues. 210 mT-F sea… https://t.co/Rg2eRWhZnT
+407,2020-10-20 22:19:31,"FSD beta rollout happening tonight. Will be extremely slow &amp; cautious, as it should."
+408,2020-10-20 22:17:05,Data from 3 engine Starship static fire this morning looks good. Proceeding with nosecone mate.
+409,2020-10-19 04:05:54,@PPathole @toadmeister Yes. We also have to consider population life-months lost from lockdowns &amp; other restriction… https://t.co/0Ct2sVAngy
+410,2020-10-19 00:32:08,@toadmeister Sweden at zero deaths Oct 15 https://t.co/Gy9a20uMmX
+411,2020-10-18 22:43:53,@JoshTownsend_96 Yes
+412,2020-10-17 19:07:39,"@juanjacobs @jwangARK Firmware is probably a slightly more accurate description, but yes"
+413,2020-10-17 06:20:21,"RT @Tesla: There's no place like home..especially if it has a Solar Roof.
+
+This Kansas ranch got theirs installed in 4 days."
+414,2020-10-17 02:12:02,"@PPathole @flyerandyp @mojosusan Mobi-C has too much mobility, fusion has too little. We need Mobi-D haha."
+415,2020-10-17 02:06:30,"@flyerandyp @mojosusan Actually, it’s my neck … https://t.co/2vCoAxsrV3"
+416,2020-10-17 01:20:43,"@flyerandyp @mojosusan Maybe I can be helpful. Had Mobi-C disc put in at C5-C6, however 1st surgery failed to remov… https://t.co/Czykfyo0IX"
+417,2020-10-17 01:12:59,@jwangARK Pretty accurate. It’s not so much DNA sequencing as it is using synthetic DNA/RNA to fix bugs in our code… https://t.co/y6GcySVGhM
+418,2020-10-16 21:23:32,@SamTalksTesla London to Beijing would be cool
+419,2020-10-16 21:22:43,"@SamTalksTesla Wow, that would be quite a trip!"
+420,2020-10-16 18:46:42,@CiNoTpyrC That’s my kid haha
+421,2020-10-16 17:30:45,møtør trèndé https://t.co/V0yo4JKbS2
+422,2020-10-16 09:00:43,@TechAmazing Looks like snoopy
+423,2020-10-16 07:45:31,@Tesmanian_com Current production is slightly better
+424,2020-10-16 07:44:38,@bamtheteslaman1 @cleantechnica Doesn’t seem to be any life in this solar system. Maybe under the ice of Europa or… https://t.co/izk0v9Gi47
+425,2020-10-16 07:35:06,"RT @Tesmanian_com: Tesla Model 3 SR+ Has Lowest Energy Consumption of All BEVs, Says Report
+
+https://t.co/7C0V16WT6Y"
+426,2020-10-16 07:13:28,@cleantechnica Very creative
+427,2020-10-16 06:28:04,@flcnhvy That free fusion reactor in the sky conveniently converts ~4 million tons of mass into energy every second… https://t.co/3R0oWMReuP
+428,2020-10-15 20:23:42,@Kristennetten @teslaownersSV You never know
+429,2020-10-15 07:53:13,@PPathole After
+430,2020-10-14 23:17:27,@Xbox 😢
+431,2020-10-14 22:59:14,"@WhatsupFranks @kimpaquette Also, system should autodelete old data automatically by default"
+432,2020-10-14 20:06:49,@UniverCurious Table in tension
+433,2020-10-14 19:06:10,@kimpaquette Yes
+434,2020-10-14 19:03:52,"@teslaownersSV Starting production on 7 seater next month, initial deliveries early December"
+435,2020-10-14 19:01:19,"The gauntlet has been thrown down! 
+
+The prophecy will be fulfilled. 
+
+Model S price changes to $69,420 tonight!"
+436,2020-10-14 18:14:43,@Neopork85 @SpaceX @NASASpaceflight @austinbarnard45 @whoisheartbreak @Erdayastronaut @FelixSchlang… https://t.co/2Z5mRScc4G
+437,2020-10-14 18:08:13,@gem8mingen @Tesla Congratulations!
+438,2020-10-14 17:43:13,@Teslarati Making progress
+439,2020-10-14 09:28:14,9 meter or roughly 30 ft diameter
+440,2020-10-14 09:24:55,Will be less roomy with 3 vacuum rocket engines added https://t.co/pKtDFdiZYC
+441,2020-10-14 08:58:01,"@flcnhvy @WholeMarsBlog @Kristennetten @boringcompany @Tesla It’s still there, but focus is Vegas &amp; Prufrock, our new tunneling machine"
+442,2020-10-14 08:54:25,@AstroJordy @Kristennetten @boringcompany @Tesla For sure
+443,2020-10-14 08:54:16,@WholeMarsBlog @Kristennetten @boringcompany @Tesla Maybe a month or so. Some finishing touches need to be done on the stations.
+444,2020-10-14 06:02:59,"@Kristennetten @boringcompany @Tesla We simplified this a lot. It’s basically just Teslas in tunnels at this point,… https://t.co/1xhs2AwXB9"
+445,2020-10-14 05:59:13,@PlayOverwatch Sweet …
+446,2020-10-14 05:51:38,@antonkanerva Yes. Everything is slow to a phased array antenna.
+447,2020-10-14 05:46:58,@lexfridman Nice
+448,2020-10-14 04:27:00,“What is love? Baby don’t hurt me.”— Winston Churchill
+449,2020-10-13 17:27:18,@PlayOverwatch @twomad Or maybe 2 weak turrets to allow more strategic degrees of freedom
+450,2020-10-13 17:23:37,@PlayOverwatch @twomad Please buff Torb’s turret!
+451,2020-10-13 05:43:22,@twomad Um … yes
+452,2020-10-13 05:42:23,@teslaownersSV I have Goosebumps 2 merch. Not sure how tbh.
+453,2020-10-13 05:39:17,@teslaownersSV HG2G
+454,2020-10-13 05:38:03,@teslaownersSV LotR
+455,2020-10-13 05:36:46,🤘 The Illuminaughty 🤘
+456,2020-10-13 05:00:55,@ChotiHaque @BillGates @DougStanhope @bobdylan @charltonbrooker @EricIdle @JimCarrey @JohnCleese @sapinker Knee deep
+457,2020-10-13 03:09:50,"RT @SpaceX: This will be the first flight of the upgraded cargo version of Dragon, which is able to carry 50% more science payloads than th…"
+458,2020-10-13 03:09:49,RT @SpaceX: The Dragon spacecraft supporting SpaceX’s 21st cargo resupply mission to the @space_station departed our Hawthorne factory last…
+459,2020-10-13 03:09:13,@chipro Yeah
+460,2020-10-13 00:04:08,@WR4NYGov At least success is in the set of all possible outcomes this time!
+461,2020-10-13 00:02:17,"@bad_at_life @WholeMarsBlog Diess is doing his best to move in the right direction, but he’s in a tough position wi… https://t.co/tDF8U6Nd4C"
+462,2020-10-12 23:58:32,@flcnhvy Good grief! SpaceX is getting zero money for this. Starship is designed to carry people &amp; cargo around Ear… https://t.co/v37QM1KycR
+463,2020-10-12 21:23:59,"@Teslarati With FSD, we got stuck in a lot of local maximums, which wasn’t clear until we hit the ceiling. This time, it’s right."
+464,2020-10-12 21:20:01,"@RationalEtienne @28delayslater Thank you, much more accurate haha"
+465,2020-10-12 21:11:19,@28delayslater This graph appears to be upside down
+466,2020-10-12 20:29:44,@Teslarati Sheer magnitude of the entire production system is hard to appreciate. Almost every element of productio… https://t.co/H8pS02oelK
+467,2020-10-12 11:46:08,@TeslaClubIN @cleantechnica Will release order configurator probably in Jan
+468,2020-10-12 11:31:44,"@cleantechnica Limited FSD beta releasing on Tuesday next week, as promised. This will, at first, be limited to a s… https://t.co/4QrYmB7iI0"
+469,2020-10-12 11:20:41,"@shortword @jwangARK The SoC’s sync with each other 20 to 30 times/sec, exchanging output of NNs that should be in… https://t.co/9cBJMEaaVW"
+470,2020-10-12 11:13:48,@jwangARK Tesla FSD computer’s dual SoCs function like twin engines on planes — they each run different neural nets… https://t.co/dFWLHXU7Ce
+471,2020-10-12 11:06:24,"@jwangARK Accurate analysis. Quite a few 
+ego/intelligence&gt;&gt;1 people in your comment thread haha. Neither MobilEye… https://t.co/FdliGoHK01"
+472,2020-10-12 05:13:20,@PPathole @slashdot !
+473,2020-10-12 05:13:00,@OhioTesla @JenDunlap_ @Tesla @CARandDRIVER @teslaownersSV @Teslarati @ElectrekCo Glad Jen is safe!
+474,2020-10-12 03:52:01,@PPathole @slashdot Wow
+475,2020-10-12 03:06:09,"@slashdot Uh ok, here we go …"
+476,2020-10-12 02:26:22,@Teslarati I don’t think this is accurate
+477,2020-10-12 02:05:46,"@Erdayastronaut @MariaBartiromo @POTUS @realDonaldTrump @JeffBezos @MorningsMaria @FoxBusiness Yeah, there are lite… https://t.co/gHoiSZ1V6r"
+478,2020-10-12 02:00:14,"@Tesmanian_com Even if half that amount, it’s still a big deal!"
+479,2020-10-12 00:46:23,@enn_nafnlaus @electricfuture5 🤣🤣
+480,2020-10-12 00:45:54,@MariaBartiromo @POTUS @realDonaldTrump @JeffBezos @MorningsMaria @FoxBusiness I have seen no evidence of an advanc… https://t.co/hBTdTJYTtc
+481,2020-10-12 00:25:07,@electricfuture5 We face a tough dichotomy of applying resources to the old architecture or applying them to the ne… https://t.co/6qGhblfRK8
+482,2020-10-11 23:40:49,@flcnhvy Definitely
+483,2020-10-11 23:39:32,"@enn_nafnlaus Exactly. He plays the “poor inventor” card, but was rich all along &amp; invented nothing (as far as I kn… https://t.co/205zz8AL33"
+484,2020-10-11 23:33:57,@enn_nafnlaus There are sketchy edits to Tesla wiki that whitewash Eberhard’s problems/glorify his role. Pretty odd… https://t.co/PPSorKWdI8
+485,2020-10-11 20:33:17,@enn_nafnlaus When Eberhard was fired from the Tesla CEO role in mid 2007 for providing false information to me &amp; t… https://t.co/8hJ3VlxZfP
+486,2020-10-11 19:18:35,@Carrenimfa Interesting
+487,2020-10-11 18:56:24,RT @CRAdvocacy: “The future of cars can and will be electric if the entire industry starts making and marketing compelling EVs for everyone…
+488,2020-10-11 04:39:26,@Erdayastronaut @flcnhvy @PelleBrannvall @Neopork85 @Caspar_Stanley @ErcXspace @MarcusHouseGame @FelixSchlang… https://t.co/XlBiDpmUuQ
+489,2020-10-10 23:10:20,@teslaownersSV @Erdayastronaut Probably
+490,2020-10-10 23:09:30,@Erdayastronaut I have that exact art on the wall of the place I stay in Boca Chica!
+491,2020-10-10 22:50:18,"@RationalEtienne @toadmeister Yes, failure to protect nursing homes was a major mistake (happened in most countries… https://t.co/CMvdKMriSh"
+492,2020-10-10 22:12:32,@toadmeister Sweden was right https://t.co/bzc2lFDjZQ
+493,2020-10-10 21:42:44,@Erdayastronaut @PelleBrannvall @flcnhvy @Neopork85 @Caspar_Stanley @ErcXspace @MarcusHouseGame @FelixSchlang… https://t.co/lGPVl7K1mI
+494,2020-10-10 20:37:36,@Teslarati Great work by SpaceX valve engineering &amp; production!
+495,2020-10-10 05:38:46,@Neopork85 @Caspar_Stanley @ErcXspace @MarcusHouseGame @FelixSchlang @C_Bass3d @nickhenning3d @SpaceX Our tiles are mechanically attached
+496,2020-10-10 01:37:17,@flcnhvy @Neopork85 @Caspar_Stanley @ErcXspace @MarcusHouseGame @FelixSchlang @C_Bass3d @nickhenning3d @SpaceX It m… https://t.co/wHXamj12IQ
+497,2020-10-09 22:11:28,@Neopork85 @Caspar_Stanley @ErcXspace @MarcusHouseGame @FelixSchlang @C_Bass3d @nickhenning3d @SpaceX Tiles will be… https://t.co/XPnQrCXQNc
+498,2020-10-09 20:38:19,"@ID_AA_Carmack Compilers need to improve imo. Most type, pointer (or other memory) problems can be detected at comp… https://t.co/n3rZP4uDI1"
+499,2020-10-09 09:07:07,@RGVaerialphotos @SpaceX I’m proud to say that that nose is pointier than it needs to be haha

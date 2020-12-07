@@ -1,0 +1,501 @@
+index,tweets,text_characters,keywords,sentiment,categories
+0,And no toilet paper,19,toilet paper,neutral,/business and industrial/paper industry
+1,Watch Demolition Man,20,Watch Demolition Man,neutral,/art and entertainment/movies and tv/television
+2,Prometheus Unbound,18,Prometheus Unbound,neutral,/style and fashion/underwear
+3,: The Falcon booster supporting this mission previously launched astronauts Bob Behnken and Doug Hurley to the,110,Falcon booster,neutral,/automotive and vehicles/vehicle brands
+4,Not bad,aff,aff,aff,aff
+5,It was a beast compared to the VIC-20,37,beast,neutral,/pets/large animals
+6,"Award accepted on behalf of the great people at Tesla, SpaceX, Neuralink &amp; Boring Co",88,behalf of the great people,neutral,/automotive and vehicles/cars/hybrid
+7,"Much of what people think of an science is actually engineering, eg no such thing as a rocket scientist, only roc",113,such thing,positive,/science/engineering
+8,"Science is discovering the essential truths about what exists in the Universe, engineering is about creating things",115,essential truths,positive,/science/engineering
+9,It does get a bit cold at night,31,bit,neutral,/technology and computing/hardware
+10,Paint makes a hell of a difference,34,Paint,negative,/style and fashion/body art
+11,Congrats!,aff,aff,aff,aff
+12,Thanks for everything you did to help build SpaceX! Some of the best memories ever.,83,best memories,positive,/art and entertainment/shows and events
+13,It will be real soon,aff,aff,aff,aff
+14,Starship legs are one of the hardest problems. External,55,Starship legs,negative,/pets/birds
+15,"Static fire is not risky from build site, but we need to clear the build site for early flights",95,Static fire,negative,/business and industrial/construction
+16,Just a static fire tomorrow. Flight no earlier than Wednesday.,62,static fire tomorrow,neutral,"/law, govt and politics/law enforcement/fire department"
+17,It will have landing legs,25,legs,neutral,/pets/birds
+18,"Yes, very sad news. Tony was great.",35,sad news,negative,/news/national news
+19,"For a second there, I thought that was a pic of Thanos haha",59,pic of Thanos haha,positive,/art and entertainment/comics and animation/comics
+20,"Yeah, truncate zeros &amp; then round",37,amp,neutral,/technology and computing/hardware/computer components/sound cards
+21,Probably going to a wider beta in ~2 weeks,42,wider beta,neutral,/society/dating
+22,fp16 with least important digits truncated (so it feels like fp32) is what were betting on for training with Dojo,113,important digits,positive,/sports/martial arts/karate
+23,Int8 for almost all heavy lifting in inference works great,58,Int8,positive,/technology and computing/programming languages/c and c++
+24,But actually!,aff,aff,aff,aff
+25,,aff,aff,aff,aff
+26,Happy Thanksgiving!,19,Happy Thanksgiving,positive,/society/social institution/divorce
+27,Hopefully next month,20,next month,neutral,/travel/transports
+28,Ok. Overall air suspension height &amp; damping algorithm is,60,Overall air suspension height,neutral,/automotive and vehicles/cars/sedan
+29,Haha true,aff,aff,aff,aff
+30,The Promise is greatly needed,29,Promise,positive,/society/unrest and war
+31,"We will have special colors for new Roadster, as we did for the original",72,special colors,positive,/automotive and vehicles/cars/coupe
+32,,aff,aff,aff,aff
+33,. is savage,11,savage,neutral,/sports/wrestling
+34,If you ever wondered where we came from,aff,aff,aff,aff
+35,"This is a life leader launch, so more risk than normal",54,life leader launch,positive,/health and fitness
+36,"Yes, but only slightly filled",aff,aff,aff,aff
+37,This is a subject of much debate,32,subject of much debate,neutral,"/law, govt and politics/politics/foreign policy"
+38,Major upgrades are slated for SN15,34,Major upgrades,neutral,/automotive and vehicles/cars/sedan
+39,"Many small improvements, but overall similar. Wiring is more robust, engines are more mat",89,small improvements,neutral,/automotive and vehicles/cars/diesel
+40,But thats why we have SN &amp; SN10,35,thats,neutral,/technology and computing/consumer electronics/camera and photo equipment/telescopes
+41,"Lot of things need to go right, so maybe /3 chance",50,Lot of things,neutral,"/law, govt and politics"
+42,Good Starship SN8 static fire! Aiming for first km / ~50k ft altitude flight next week. Goals are to test engin,111,Good Starship SN8,positive,/travel/transports/air travel/airplanes
+43,Maybe start on that a year from now. Depends on how Starship progress goes.,75,Starship progress,neutral,/business and industrial/energy
+44,Not yet,aff,aff,aff,aff
+45,Not bad! We will definitely need more engines if we make the cargo bay all propel,81,cargo bay,positive,/automotive and vehicles/cars/diesel
+46,"Rapid &amp; complete rocket reuse, low cost propellant, orbital refilling &amp; propellant production at d",106,complete rocket reuse,neutral,/automotive and vehicles/vehicle brands
+47,Yes,aff,aff,aff,aff
+48,"Were still far from simply video in, control out. The biggest game-changer, cu",78,biggest game-changer,positive,/technology and computing/software/graphics software
+49,FSD Beta coming out in a few days. Improvement should be significant.,69,FSD Beta,neutral,/education/homework and study tips
+50,Exciting mission!,17,mission,positive,"/law, govt and politics/armed forces/air force"
+51,Wow,aff,aff,aff,aff
+52,Yea,aff,aff,aff,aff
+53,"Tomorrow will be the th flight of this rocket, landing on droneship Of Course I Still Love You",94,th flight of this rocket,positive,/automotive and vehicles/vehicle brands
+54,Sure,aff,aff,aff,aff
+55,True,aff,aff,aff,aff
+56,We have quiet a queue of products to build! Better do new Roadster at some point.,81,queue of products,positive,/business and industrial/metals
+57,"Fate loves irony, but hates hypocrisy",37,Fate,negative,/hobbies and interests/magic and illusion
+58,": Booster separation, second-engine start, and fairing separation as the U.S.-European Sentinel-6 Michael Freilich ocean-observing",130,Booster separation,neutral,/automotive and vehicles/motorcycles
+59,Yes,aff,aff,aff,aff
+60,Our data center was named Skynet as a joke over years ago. Might have been tempting fate!,89,data center,neutral,/technology and computing/data centers
+61,Tesla is a vehicle for creating &amp; producing many useful products,68,Tesla,positive,/automotive and vehicles/vehicle brands
+62,Largest cast titanium part in the world. No heat shielding needed.,66,Largest cast titanium part,positive,/business and industrial/energy
+63,Landing at Vandenberg AFB in California,39,Vandenberg AFB,neutral,"/law, govt and politics/armed forces/air force"
+64,"Actually, off to the side (so it doesnt take out the launch",59,side,negative,/art and entertainment/shows and events
+65,Where it should be!,aff,aff,aff,aff
+66,"Because I am not an investor. Tesla is definitely not the only good company, but investing is n",95,only good company,negative,/finance/investing
+67,"Well, almost anything",aff,aff,aff,aff
+68,Quite the day ahead,19,day,neutral,/automotive and vehicles/cars/car culture
+69,: Crew-1s view of Earth during Dragons flight to the,52,Crew-1s view of Earth,neutral,/travel/transports/sea travel
+70,Now *this* is what youd call pointy!,aff,aff,aff,aff
+71,Cool,aff,aff,aff,aff
+72,"Theyre moving at ~25 times the speed of sound, but it feels like nothing",72,speed of sound,negative,/art and entertainment/shows and events
+73,,aff,aff,aff,aff
+74,There will always be upgrades,29,upgrades,neutral,/automotive and vehicles/cars/sedan
+75,It will be better than human vision by quite a margin,53,human vision,positive,"/law, govt and politics/politics/elections/presidential elections"
+76,Reality looks like a strange ghost-world at radar wavelengths.,62,strange ghost-world,neutral,/science/physics/optics
+77,Exactly,aff,aff,aff,aff
+78,This is a misperception. SpaceX developed &amp; continues to use lidar for Dragon docking with,94,SpaceX,neutral,/automotive and vehicles/vehicle brands
+79,One day we will fly you on Starship,35,day,positive,/sports/fishing/fly fishing
+80,Well done!,aff,aff,aff,aff
+81,"I cant comment on turbopump internal details, but youre roughly in the ballpark. Wow, roc",89,internal details,negative,/sports/baseball
+82,"To be clear, this was just an XPeng problem. Other companies in China have not done this.",89,XPeng problem,negative,/business and industrial/company
+83,"Andrej is awesome, but it should be said that we have a very talented Autopilot",79,Andrej,positive,/sports/wrestling
+84,Yeah. They stole Apples code too.,33,Apples code,negative,/technology and computing/programming languages/c and c++
+85,They have an old version of our software &amp; dont have our NN inference computer,82,old version of our software,neutral,/technology and computing/software
+86,Wild times!,aff,aff,aff,aff
+87,Congrats!,aff,aff,aff,aff
+88,.,aff,aff,aff,aff
+89,Yup,aff,aff,aff,aff
+90,"Change out a few parts, otherwise fine",38,parts,neutral,/business and industrial/metals
+91,Caution strongly advised with SPACs,35,Caution,neutral,/sports/auto racing/nascar
+92,Sure,aff,aff,aff,aff
+93,Haha sexy cropping champion of all time,39,champion of all time,positive,/sports/wrestling
+94,"If next weeks release looks good, we will widen beta",52,next weeks release,positive,/technology and computing/operating systems
+95,"Unfortunately, there are too many rules around liquor distribution, even in the US.",83,liquor distribution,negative,/food and drink/beverages/alcoholic beverages
+96,"Next weeks release is special. Lot of fundamental improvements, both important bug fixes &amp; entire n",103,Lot of fundamental improvements,positive,/technology and computing/operating systems
+97,years &amp; $11 billion wow,27,amp,positive,/finance/investing
+98,Safety is our primary design goal,33,primary design goal,neutral,/automotive and vehicles
+99,Fully,aff,aff,aff,aff
+100,Let the Martians decide their own future,40,own future,neutral,/hobbies and interests/getting published
+101,A lot of my brain space is spent dealing with both units!,57,lot of my brain space,negative,/health and fitness/disease/epilepsy
+102,"Terraforming will be too slow to be relevant in our lifetime. However, we can establish a human base",100,human base,neutral,/technology and computing/internet technology/web search/people search
+103,That is certainly the intention!,32,intention,positive,/society/unrest and war
+104,,aff,aff,aff,aff
+105,The only publicly traded stock I own is Tesla,45,stock,neutral,/automotive and vehicles/cars/hybrid
+106,Wise words from Bogle. The point of companies is products &amp; services. They have no point in &amp; of thems,110,point of companies,neutral,/business and industrial/metals
+107,"No, just a mild cold. Same with my bro. Def had cov2 though. Pc&lt;20 means viral",81,Pc,neutral,/technology and computing/hardware
+108,"Life in glass domes at first. Eventually, terraformed to support life, like Earth.",82,glass domes,neutral,/science/geology/volcanology/volcanic eruptions
+109,Yeah,aff,aff,aff,aff
+110,"I was going to say Sim!, but that seemed too obvious haha",57,obvious haha,positive,/sports/running and jogging
+111,Deveras!,aff,aff,aff,aff
+112,"And cases with high (non-infectious) Ct should quarantine for a few days, while getting another test. Seco",106,cases,negative,/health and fitness/disease
+113,So many things you want &amp; some you didnt know you wanted,60,things,positive,/hobbies and interests/guitar
+114,Maybe a little Mercy,20,little Mercy,neutral,/religion and spirituality/christianity
+115,Tesla holiday software release is,33,Tesla holiday software release,neutral,/technology and computing/software
+116,,aff,aff,aff,aff
+117,Cobra Kai is a deep cut,23,Cobra Kai,negative,/automotive and vehicles/cars/coupe
+118,Its all cake &amp; someone took a bite,38,cake,negative,/food and drink/desserts and baking
+119,There is such a thing as too much sentience,43,much sentience,positive,/pets/animal welfare
+120,Deus ex machine learning,24,Deus ex machine learning,neutral,/science/computer science/artificial intelligence
+121,"Its designed to make life multiplanetary, otherwise extreme overkill for mere Earth sector activity!",100,extreme overkill,negative,/finance/investing
+122,More like he gave it his blessing. It was sort of a groundswell of those who believed,85,sort of a groundswell,neutral,"/law, govt and politics/politics"
+123,Nullius in Verba,aff,aff,aff,aff
+124,Indeed,aff,aff,aff,aff
+125,Dojo/Doge,aff,aff,aff,aff
+126,"Yeah, looks like marginal cost of launch will be less than $1M for more than",76,marginal cost of launch,negative,/business and industrial/energy/electricity
+127,Exactly,aff,aff,aff,aff
+128,"Merlin is a strong local maximum design, but kerosene is suboptimal fuel, no matter what",88,strong local maximum design,neutral,/business and industrial/energy/oil/diesel fuel
+129,"Yes, but from a visiting American. Ah, the irony is just too much!!",67,irony,negative,/society/unrest and war
+130,"Yeah, PCR Ct was unequivocal at &lt;20. Doesnt matter what m",60,Doesnt matter,neutral,/health and fitness/disease
+131,Maybe making some notable changes. Will wait until figurative &amp; literal dust settles.,89,notable changes,neutral,/art and entertainment/visual art and design/painting
+132,"Pretty close. Definitely feel if I take DayQuil. Frankly, this was one",70,DayQuil,neutral,/family and parenting/children
+133,Avionics cables moving to steel pipe shields &amp; adding water-cooled steel pipes to test pad,94,Avionics cables,neutral,/business and industrial/iron and steel industry
+134,"About secs after starting engines, martyte covering concrete below shattered, sending blades of",95,martyte covering concrete,negative,/automotive and vehicles/cars/diesel
+135,The most amazing thing about rocket engines is that they *sometimes* dont blow up! The,86,amazing thing,positive,/automotive and vehicles/vehicle brands
+136,We should just count the atoms at this point,44,atoms,neutral,/science/physics/atomic physics
+137,Absolutely. Production/testing of rocket engines is over % of,61,testing of rocket engines,neutral,/automotive and vehicles/vehicle brands
+138,Our first Merlin engine design was really bad tbh. Nothing worked well,70,first Merlin engine design,negative,/art and entertainment/visual art and design/design
+139,Maybe *I* just love irony haha,30,irony haha,positive,/hobbies and interests/getting published
+140,"Theyre on their way! Hopefully, more Teslaquila next month.",59,next month,neutral,/travel/transports
+141,Special permission received from Stonecutters Guild!,52,Special permission,neutral,/business and industrial/construction
+142,Fate Irony,10,Fate Irony,negative,/art and entertainment/books and literature
+143,Well said.,aff,aff,aff,aff
+144,,aff,aff,aff,aff
+145,"Damn, thats not easy! I spent quite a bit of time looking at Russian/Ukrainian engines. Theyre good.",100,bit of time,positive,/automotive and vehicles/cars/diesel
+146,Yes,aff,aff,aff,aff
+147,: Docking confirmed Crew Dragon has arrived at the !,52,Crew Dragon,positive,/travel/transports
+148,Toss a bitcoin to ur Witcher,28,ur Witcher,neutral,/finance/investing/day trading
+149,,aff,aff,aff,aff
+150,": Enter the Crew Dragon. At :48 p.m. EST (9:48 p.m. UTC), the NASA Crew-1 astronauts give you a LIVE tour of their space",120,NASA Crew-1 astronauts,neutral,/science/weather
+151,"CureVac, Moderna &amp; a few others. Tesla makes the machine CureVac uses to go from kn",87,machine CureVac,positive,/automotive and vehicles/cars/hybrid
+152,Creating synthetic mRNA for cures/vaccines is the future of medicine imo. Turns it (mostly) into a,98,synthetic mRNA,neutral,/science/medicine
+153,Haha,aff,aff,aff,aff
+154,Great thread,12,Great thread,positive,/technology and computing/hardware/computer components/chips and processors
+155,"Im ok, thanks for asking. No symptoms for past few days, apart from fatigue. Unless something chang",99,symptoms,negative,/health and fitness/disorders
+156,,aff,aff,aff,aff
+157,Launch in minutes,17,Launch,neutral,/automotive and vehicles/vehicle brands
+158,"Yeah, with cooling channels integrated into the chamber walls",61,chamber walls,neutral,/art and entertainment/movies and tv/television
+159,"The same propellant is used either for abort or for orbital maneuvering, as one use obviates the other",102,orbital maneuvering,neutral,/automotive and vehicles/vehicle brands
+160,"Dragon can also hover &amp; land propulsively, but we use the parachutes for maximum safety",91,Dragon,neutral,/sports/parachuting
+161,"Thrusters are integrated with spacecraft, enabling abort capability all the way to abort for increased safety",109,Thrusters,neutral,/automotive and vehicles/vehicle brands
+162,: What song would you play on your ride out to the launch pad?,62,launch pad,neutral,/automotive and vehicles/vehicle brands
+163,: Dragon has completed flights to and from the . It was designed from the beginning with human spaceflight in mi,112,human spaceflight,neutral,/travel/transports/air travel/airlines
+164,: Dragon is the only spacecraft currently flying capable of returning significant amounts of cargo to Earth and is the first priv,129,only spacecraft,neutral,/travel/transports
+165,: SpaceXs custom-tailored suits route the communications and cooling systems and protect the crew in the event of cabin depressu,128,event of cabin depressu,neutral,/business and industrial/energy/nuclear power/nuclear accident
+166,: LIVE NOW: We are ready to . Are you? Watch coverage of the NASA Crew-1 mission. Liftoff is at :27pm ET:,105,Watch coverage of the NASA Crew-1 mission,neutral,/automotive and vehicles/vehicle brands
+167,: Watch Falcon launch Crew Dragon on its first operational mission to the with astronauts on board,98,Watch Falcon launch Crew Dragon,neutral,/business and industrial/business operations
+168,Ok,aff,aff,aff,aff
+169,: All systems are go for tonights launch at :27 p.m. EST of Crew Dragons first operational mission with four astronauts on boa,126,tonights launch,neutral,"/law, govt and politics/armed forces/air force"
+170,"Yeah, I feel pretty normal. No symptoms right now. Last week, I had sym",71,Last week,neutral,/health and fitness/disorders
+171,"Doing tests from several different labs, same time of day, administered by RN &amp; am",86,different labs,neutral,/sports/cricket
+172,"Both obv insanely great, too bad they had this pointless argument",65,pointless argument,negative,/art and entertainment/shows and events
+173,Astronaut launch today!,23,Astronaut launch today,positive,/automotive and vehicles/vehicle brands
+174,": has a message for boys and girls in Japan: ""Space is waiting!"" In this Spotlight, astronaut So",96,message,negative,/technology and computing/internet technology/email
+175,: This week... NASA's Crew-1 astronauts arrive at ahead of launch Our rover marks days,86,NASA's Crew-1 astronauts,neutral,/automotive and vehicles/vehicle brands/land rover
+176,": just finished final dress rehearsal, getting ready for Saturday launch! Behind me is ""real""",93,final dress rehearsal,positive,/automotive and vehicles/auto parts
+177,No kids though,14,kids,neutral,/family and parenting
+178,Hell of a wig collection too,28,Hell of a wig collection,negative,/hobbies and interests/collecting
+179,It would be great if labs could give people this level of granular feedback in their results,92,level of granular feedback,positive,/technology and computing/internet technology/web search/people search
+180,: Great question! Its more complex question and depends on why the test is being used - ie: do you want to kn,109,complex question,positive,/automotive and vehicles/vehicle brands/rolls-royce
+181,Worth reading this thread if youre curious about rona testing,61,rona testing,positive,/education/special education
+182,"They should be imo. If you get a blood pressure test, they tell you the number, not ju",86,blood pressure test,negative,/health and fitness/disease/heart disease
+183,"A little up &amp; down. Feels just like a regular cold, but more body achy &amp; cloudy head than co",100,cloudy head,negative,/style and fashion/body art
+184,"In your opinion, at what Ct number for the cov2 N1 gene should a PCR test probably be regarded as",97,Ct number,neutral,/health and fitness/disease
+185,!,aff,aff,aff,aff
+186,"Cool, but please be super cautious. Expect two steps forward, one back. Lot of new code was merged.",99,Lot of new code,neutral,/technology and computing/programming languages/c and c++
+187,Just a scratch. We can buff it out.,35,scratch,neutral,/pets/birds
+188,"Am getting wildly different results from different labs, but most likely I have a moderate case of covid",104,different results,positive,"/law, govt and politics"
+189,NPCs all the way up,19,NPCs,neutral,/art and entertainment/shows and events
+190,Ahem,aff,aff,aff,aff
+191,Unless youre on DMT,19,DMT,neutral,/health and fitness
+192,Laws of thermodynamics:1. You cant win2. You cant break even3. You cant stop playing,84,stop playing,negative,/science/physics/thermodynamics
+193,Shakes fist at entropy,22,entropy,neutral,/science/physics/thermodynamics
+194,Big expansion of beta program in to weeks!,42,Big expansion of beta program,neutral,/technology and computing/operating systems
+195,Interesting. My Thursday night saliva sample came back today with N1 gene (unique to cov,88,Thursday night saliva sample,positive,/health and fitness/disease
+196,Whats honey?,12,Whats honey,neutral,/food and drink/desserts and baking
+197,Feels that way,14,way,negative,/society/dating
+198,This seems accurate,aff,aff,aff,aff
+199,Cold symptoms are gone for now,30,Cold symptoms,negative,/health and fitness/disorders
+200,There are degrees of pos,24,degrees of pos,neutral,/science/engineering
+201,Heneghan makes a lot of sense. Hilarious that he has to clarify that he r,73,lot of sense,positive,/science/mathematics/algebra
+202,The number of PCR amplification cycles required to detect the virus is a rough indicator of your vir,100,number of PCR amplification cycles,neutral,/health and fitness/disease
+203,This a great reference! Worth a read.,37,great reference,positive,/art and entertainment/books and literature
+204,Case closed,11,Case,neutral,/society/crime/personal offense/homicide
+205,Soon,aff,aff,aff,aff
+206,"Fwiw, lab I just spoke to thinks below is accurate, to gets dicey &amp; above is bs. Will talk to",97,lab,positive,"/law, govt and politics/government/courts and judiciary"
+207,Lab I just spoke to said cov2 PCR detection (N1 &amp; N3 genes) below cycles is reliable &amp; above cycles is not,114,cov2 PCR detection,neutral,/health and fitness/disease
+208,"Note, this is not the spike protein. They dont consider that reliable.",70,spike protein,negative,/health and fitness/disease
+209,"Just spoke directly to a testing lab. Their main PCR search is for the N1 gene, unique",86,main PCR search,neutral,/health and fitness/disease
+210,Strange,aff,aff,aff,aff
+211,Possible explanation for the dramatic decline in cold &amp; flu prevalence vs prior years. If someone comes,107,Possible explanation,neutral,/health and fitness/disease/cold and flu
+212,"Moreover, lower the true prevalence, the higher the false positive number will be. This sounds obvious,",103,true prevalence,negative,/health and fitness/disease
+213,From,aff,aff,aff,aff
+214,Sure is,aff,aff,aff,aff
+215,Would be great to hear from people who know a lot about the PCR testing industry. Whats the approximate false posi,114,approximate false posi,neutral,/business and industrial/war industry
+216,Interesting,aff,aff,aff,aff
+217,Interesting,aff,aff,aff,aff
+218,What is the general population (no knowledge of symptoms) accuracy of a sars-cov2 PCR test &amp; is it possible to gene,119,general population,neutral,/health and fitness/disease
+219,"A good PCR test should identify if I have the cov2 spike proteins, although I have heard s",aff,aff,aff,aff
+220,"Mild sniffles &amp; cough &amp; slight fever past few days. Right now, no symptoms, although I did take NyQuil.",111,Mild sniffles,negative,/health and fitness/disease
+221,"Technically, I tested positive, then negative twice, then positive again, so Elon Musk Tests Negati",99,Elon Musk Tests Negati,positive,/automotive and vehicles/electric vehicles
+222,The carousel turns ever faster,30,carousel turns,positive,/pets/zoo
+223,Yup,aff,aff,aff,aff
+224,Exactly,aff,aff,aff,aff
+225,Symptoms of a typical cold. Nothing unusual so far.,51,Symptoms,neutral,/health and fitness/disorders
+226,"If its happening to me, its happening to others. Im getting PCR tests from separate labs. Results will take about hours.",120,happening,negative,/sports/cricket
+227,"Something extremely bogus is going on. Was tested for covid four times today. Two tests came back negative, two cam",115,tests,neutral,/sports/cricket
+228,"Burst disk worked, so vehicle appears to be ok. Well have to swap out at least one of the engines.",98,disk,neutral,/automotive and vehicles/vehicle brands
+229,Maybe melted an engine preburner or fuel hot gas manifold. Whatev,65,engine preburner,neutral,/business and industrial/energy/natural gas
+230,We lost vehicle pneumatics. Reason unknown at present. Liquid oxygen header tank pressure is risin,98,Liquid oxygen header tank pressure,neutral,/automotive and vehicles/vehicle brands
+231,,aff,aff,aff,aff
+232,: Tesla tops list of s Most Attractive Employers for US engineering students,76,tops list,positive,/science/engineering
+233,Astronauts fly to on Sat night from Cape. First operational flight of Crew Dragon.,82,operational flight of Crew Dragon,neutral,/business and industrial/business operations
+234,Luck is the best superpower,27,best superpower,positive,"/law, govt and politics/politics/foreign policy"
+235,: Thank you to all those who have served and sacrificed,aff,aff,aff,aff
+236,: Crew access arm swings into place,35,Crew access arm swings,neutral,/technology and computing/internet technology
+237,Yes,aff,aff,aff,aff
+238,It is an honor that they would choose to work with me. I strive to ensure that the companies enable,99,honor,positive,/finance/financial news
+239,Such a privilege to work with people I like &amp; respect so much. I feel blessed.,82,privilege,positive,/family and parenting/children
+240,": The Flight Readiness Review for the Crew-1 mission to the has concluded, and and are GO t",91,Flight Readiness Review,neutral,"/law, govt and politics/armed forces/air force"
+241,: Falcon and Crew Dragon vertical on Launch Complex A,53,Crew Dragon vertical,neutral,/travel/transports/sea travel
+242,Probably,aff,aff,aff,aff
+243,Happy to see this,aff,aff,aff,aff
+244,"I do expect this to become an important product for the world, but probably not financially material for Tesla",110,important product,negative,/automotive and vehicles/cars/hybrid
+245,Theres no entry,15,entry,neutral,"/law, govt and politics/immigration"
+246,Tesla makes the RNA Bioreactor that can make vaccines / cures. CureVac has version in use.,90,RNA Bioreactor,neutral,/health and fitness/disease
+247,: Crew Dragon and Falcon in the hangar at Launch Complex A ahead of launching four astronauts to the ; liftoff,110,Crew Dragon,neutral,/automotive and vehicles/vehicle brands
+248,Checking,aff,aff,aff,aff
+249,I just hope this game doesnt twist itself to tedium out of fear of being canceled,81,game doesnt twist,negative,/art and entertainment/shows and events
+250,": Rumor has it that ""Austin Chalk"" is geologically one of best soils for tunneling. Want to find out? Austin jobs now avai",122,Austin Chalk,neutral,/society/work/unemployment
+251,,aff,aff,aff,aff
+252,"Yes, you can have my damn cookie! should be a browser setting",61,browser setting,neutral,/technology and computing/internet technology/web search
+253,Thanks to a lot of great Autopilot/AI hardware &amp; software engineers at Tesla!,81,lot of great Autopilot,positive,/technology and computing/hardware
+254,For sure,aff,aff,aff,aff
+255,Will be worth it,aff,aff,aff,aff
+256,Exactly,aff,aff,aff,aff
+257,Sure,aff,aff,aff,aff
+258,"Actually, its still there",aff,aff,aff,aff
+259,Wait until you see what Cybertruck will do,42,Cybertruck,positive,/family and parenting/children
+260,This is accidental. Will be back shortly.,aff,aff,aff,aff
+261,: k Superchargers and counting,30,k Superchargers,neutral,/automotive and vehicles/vehicle brands/rolls-royce
+262,Am hoping to change booster design to land back on launch mount with,68,booster design,neutral,/art and entertainment/visual art and design/design
+263,Chip has temp sensor &amp; automatically maintains safe temp,60,temp sensor,neutral,/technology and computing/consumer electronics/camera and photo equipment/cameras and camcorders
+264,Enough already on my plate &amp; Teslas. Maybe one day will do a prototy,72,plate,positive,/sports/cricket
+265,"Neuralink wont overclock the brain, it will transfer processing to the supercomputer extension of yo",100,Neuralink wont,negative,/technology and computing/hardware/computer components/chips and processors
+266,We rewrote all labeling software for D. Very different from labeling single phot,80,labeling software,neutral,/technology and computing/software
+267,Version is about a year away,28,Version,neutral,/automotive and vehicles/cars/hatchback
+268,It would appear that their calculations were incorrect,54,calculations,neutral,/science/mathematics/arithmetic
+269,China understands the profound importance of reusability. The era of expendable rockets will soon be over.,106,era of expendable rockets,neutral,/society/unrest and war
+270,Tesla Autopilot/AI team,aff,aff,aff,aff
+271,"Good explanation. D is essential for dynamically occluded objects, especially in large intersection",99,Good explanation,positive,/technology and computing/programming languages/c and c++
+272,:,aff,aff,aff,aff
+273,The Phantom of the Opera Is here inside your mind,49,Phantom of the Opera,neutral,/style and fashion/body art
+274,,aff,aff,aff,aff
+275,Just looking for problem-solvers who get things done with a high sense of urgency. Dont care if or where they went to school.,125,problem-solvers,positive,/education/school
+276,"When sending your resume, please describe a few of the hardest problems you solved &amp; exactly how you solved them",116,few of the hardest problems,positive,/science/mathematics/geometry
+277,A New Banner is neededNeither hard left nor right,49,New Banner,negative,"/law, govt and politics/politics"
+278,Another fine day in the simulation,34,fine day,neutral,/technology and computing/hardware/computer components
+279,"Faraday invented the electric motor, Tesla the (commutator-free, three-phase) AC induction motor, in other",106,electric motor,neutral,/automotive and vehicles/cars/hybrid
+280,"Maxwell was amazing. Should have more recognition. Tesla Motors, Inc., was almost called Faraday, as it to",106,Tesla Motors,neutral,/automotive and vehicles/cars/hybrid
+281,is ten times better than,24,times,neutral,/education/homework and study tips
+282,,aff,aff,aff,aff
+283,: Deployment of GPS III-4 confirmed,35,Deployment of GPS III-4,neutral,/health and fitness/exercise
+284,: Falcon s first stage lands on the Of Course I Still Love You droneship,72,first stage lands,positive,/automotive and vehicles/vehicle brands/ford
+285,: Liftoff!,aff,aff,aff,aff
+286,Awaiting approval from Canadian authorities,43,Canadian authorities,neutral,"/law, govt and politics"
+287,Recruiting ace engineers for Giga Berlin! Will interview in person tomorrow on site. Send resume to Guns.com.,109,Recruiting ace engineers,positive,/science/engineering
+288,Stop being a chad,17,chad,neutral,/automotive and vehicles/auto parts
+289,Uh Chad wtf,aff,aff,aff,aff
+290,"Einstein was great, but did not succeed at engineering (and he tried)",69,Einstein,negative,/science/engineering
+291,"Yeah, that will be relatively easy, as so few users out in the ocean",68,users,positive,/technology and computing/internet technology/social network
+292,"Yes, although I didnt expect the stock to rise so much so",57,stock,negative,/finance/investing/stocks
+293,"Super appreciate your support, Steve! That convertible loan gave us months of runway.",85,convertible loan,neutral,/automotive and vehicles/cars/convertible
+294,Closest we got was about a month. The Model ramp was extreme stress &amp; pa,76,Model ramp,neutral,/automotive and vehicles/cars/sedan
+295,"I put in my last money, even though I thought we would still fail. But, it was eithe",84,last money,negative,/finance/financial news
+296,"That funding round completed pm on Christmas Eve in . Last hour of last day possible, as investo",96,Last hour of last day,neutral,/education/special education
+297,Yes,aff,aff,aff,aff
+298,"Lowering Starlink terminal cost, which may sound rather pedestrian, is actually our most difficult technical challenge",118,terminal cost,negative,/business and industrial/construction
+299,"As soon as we get regulatory approval. Hopefully, around middle of next year.",77,regulatory approval,neutral,/business and industrial/company/merger and acquisition
+300,"Right now, it takes about mins to set up, but, with future improvements, probably less than mi",94,future improvements,positive,/society/dating
+301,Canada and Norway are next after we get US out of early beta!,61,Canada,neutral,/business and industrial/business operations
+302,Didnt realize that was possible. No problem if theres a way get current design Cybertruck approved in Europe!,109,current design Cybertruck,positive,/business and industrial/construction
+303,"As soon as we get country approval. This is required for each country individually, as no EU-wide approval",106,country approval,positive,"/law, govt and politics"
+304,"Lower latitude states need more satellites in position, so probably January",75,Lower latitude states,neutral,/science/geography/topography
+305,Several thousand more Starlink beta participation invitations going out this week,81,Starlink beta participation invitations,neutral,/careers/career planning
+306,New design is better with many minor tweaks. Even the small details matter.,75,New design,positive,/automotive and vehicles/cars/sedan
+307,Haha,aff,aff,aff,aff
+308,Very close to actual expected flight!,37,flight,neutral,/travel/transports/air travel/airlines
+309,"I could not be more excited about the new supercollider! That said, while it is considerably larger,",100,new supercollider,positive,/business and industrial/energy
+310,,aff,aff,aff,aff
+311,,aff,aff,aff,aff
+312,Tesla Tex,aff,aff,aff,aff
+313,Yes,aff,aff,aff,aff
+314,Penguin Random House should change the name to Random Penguin,61,Penguin Random House,neutral,/art and entertainment/books and literature/e-books
+315,"Sure, although it might be quite a short livestream! Lot can go wrong, but well provide video, wa",97,short livestream,negative,/technology and computing/internet technology/web clip art
+316,This is what matters most,aff,aff,aff,aff
+317,Weve tested a sub-scale version in a wind tunnel with active aero clos,70,wind tunnel,neutral,/automotive and vehicles/cars/car culture
+318,,aff,aff,aff,aff
+319,Lord of the,11,Lord,neutral,/hobbies and interests/reading
+320,"Yeah. Although, if it fails right at the end, some landing",58,end,negative,/travel/transports
+321,Minor,aff,aff,aff,aff
+322,"Understanding exactly how the body flaps control pitch, yaw &amp; roll duri",75,body flaps control pitch,positive,/style and fashion/body art
+323,"But, a RUD right off launch pad is also possible. Fortunately, SN9 is almost ready.",83,launch pad,positive,/automotive and vehicles/vehicle brands/kia
+324,"Stable, controlled descent with body flaps would be great. Transferring propellant",82,body flaps,positive,/style and fashion/body art
+325,Every to days,13,days,neutral,/science/mathematics/algebra
+326,"Faults will never be zero, but at some point the probability of a fault wi",74,probability of a fault wi,negative,/science/geology/seismology/earthquakes
+327,We measure this primarily in intervention probability. This update addressed several issu,89,intervention probability,neutral,/education/homework and study tips
+328,Thanks to a great Autopilot/AI team working super hard! Doing neural nets without testing them again,100,great Autopilot,positive,/sports/fishing
+329,Latency will improve significantly soon. Bandwidth too.,55,Latency,neutral,/technology and computing/hardware/computer networking/router
+330,This build should be noticeably better with interventions,57,interventions,neutral,/health and fitness
+331,Yes,aff,aff,aff,aff
+332,"Ive spent more than half my life in California &amp; love the state. But, frankly, I think",90,Ive,positive,/art and entertainment/visual art and design/design/industrial and product design
+333,And Sweden is still right with zero deaths Oct,46,Sweden,neutral,/science/weather/meteorological disaster/hurricane
+334,"True. Also, fewer heart attacks, as way easier to pump blood in % gravity.",74,heart attacks,neutral,/health and fitness/disease/heart disease
+335,"Now were talking. Also, Stephenson -18 is in the constellation Scrotum haha.",76,constellation Scrotum haha,neutral,/health and fitness/disease/infertility
+336,Small fry. The sun converts over million tons of mass to energy every second.,77,sun converts,neutral,/science/physics/thermodynamics
+337,Accurate,aff,aff,aff,aff
+338,,aff,aff,aff,aff
+339,Some challenges with high winds. Looks like Sunday for static fire.,67,high winds,negative,/science/weather/meteorological disaster/hurricane
+340,Great shot!,11,Great shot,positive,/sports/hunting and shooting
+341,Future AI will appreciate this,30,Future,positive,/science/computer science/artificial intelligence
+342,Truth is stranger than fiction,30,Truth,negative,/art and entertainment/music/music genres/punk
+343,,aff,aff,aff,aff
+344,Urf is so sml,aff,aff,aff,aff
+345,For a long time,15,long time,neutral,/society/social institution/divorce
+346,"Truth be told, Ive eaten at JitB many times over the years, even the teriyaki bowl",82,Truth,positive,/food and drink/food
+347,Might buy a Jack in the Box footstool,37,Box footstool,positive,/automotive and vehicles/buying and selling cars
+348,"Approximately, log(rate)",24,log,neutral,/society/work/unemployment
+349,"Same bot, just change setting to combat",39,bot,neutral,"/law, govt and politics/armed forces/air force"
+350,"Well, being a phased array antenna, it is actually rather flat!",63,phased array antenna,negative,/technology and computing/electronic components
+351,Tesla should make catgirl robots?,33,Tesla,neutral,/business and industrial/automation/robotics
+352,Little crane: Am I just a toy to you!?,38,Little crane,negative,/shopping/toys
+353,,aff,aff,aff,aff
+354,"Come here no, come, here",aff,aff,aff,aff
+355,"Wow, this mayo sure is salty!",29,mayo,positive,/food and drink/food
+356,Max Payne was great on many levels. Silent Hill good too.,57,Silent Hill,positive,/art and entertainment/shows and events
+357,Jack in the Box should do double duty as a sperm donor clinic name is,69,Jack,neutral,/food and drink/food/fast food
+358,One of the best games ever,26,best games,positive,/hobbies and interests/games
+359,FEAR with modern graphics &amp; sound would rock,48,modern graphics,negative,/technology and computing/software/graphics software
+360,Ok,aff,aff,aff,aff
+361,All games in this thread are far scarier &amp; more creatively so than any horror movie,87,horror movie,negative,/art and entertainment/movies and tv/horror
+362,FEAR is best imo. Also Dead Space . They will haunt your dreams.,64,Dead Space,neutral,/family and parenting/children
+363,,aff,aff,aff,aff
+364,"To the best of my knowledge, literally zero equipment was usable without major repairs or upgra",95,major repairs,positive,/travel/transports
+365,All that was left were broken bots &amp; equipment hardly worth the scrap metal value. But we scrounged up spa,110,broken bots,negative,/technology and computing/internet technology/social network
+366,And there were actually zero employees in the factory after GM/Toyota left. They took all good equipment &amp;,110,zero employees,neutral,/automotive and vehicles/vehicle brands/toyota
+367,Bettern nothin or ur back!,26,Bettern nothin,positive,/art and entertainment/music/music genres/soul music
+368,,aff,aff,aff,aff
+369,Tesla team has done great work!,31,great work,positive,/automotive and vehicles/cars/hybrid
+370,"Well, tbh, our capex efficiency in was trash",44,capex efficiency,negative,/business and industrial/energy
+371,Testing for covid is a license to print money,45,Testing,neutral,/business and industrial/business software
+372,"Yes, very helpful. Thanks all beta testers!",43,beta testers,positive,/technology and computing/operating systems
+373,Video training &amp; inference is essential for excellent autonomy,66,Video training,positive,/education/homework and study tips
+374,"Sigh there should be a new supersonic jet, this time electric",61,new supersonic jet,negative,/automotive and vehicles/electric vehicles
+375,Critical to humanitys future,28,humanitys future,neutral,/science/social science/philosophy
+376,Congratulations SpaceX Team!,28,Congratulations SpaceX Team,positive,/automotive and vehicles/vehicle brands
+377,Mine is a few days ahead,24,days,neutral,/automotive and vehicles/cars/car culture
+378,"Sure, it could be an option in settings",39,option,neutral,/automotive and vehicles/cars/coupe
+379,Visualization will tone down significantly for production. These are intentionally strident colors.,99,strident colors,negative,/technology and computing/software/graphics software
+380,Sure,aff,aff,aff,aff
+381,"Im in Boca every week, so maybe we could talk th",48,Boca,neutral,/art and entertainment/radio/talk radio
+382,Good point. Probably next week in form of a written piece on SpaceX website.,76,next week,neutral,/art and entertainment/music/music reference
+383,Great pics! That we now have the beginnings of a Starship production system is most meaningful.,95,beginnings of a Starship production system,positive,/technology and computing/enterprise technology
+384,"Yup. With beta updates, therell be a lot of steps fwd, step back situations, but pace of improv",95,beta updates,positive,/automotive and vehicles/cars/sedan
+385,Working on it. Also needs to be able fart at other cars on command.,67,able fart,neutral,/automotive and vehicles/cars
+386,Starship is coming together!,28,Starship,positive,/travel/transports/sea travel
+387,Price change is pushed to Thursday next week. Applies only to US for now. One week clock will start in other countr,115,Price change,neutral,/real estate/buying and selling homes
+388,There will be a deg glass Star Bar (name tbd) at top of high bay,64,deg glass Star Bar,neutral,/news
+389,"Well, we have said many times that the price will rise as the product functionality improves. How much ti",105,much ti,neutral,/technology and computing/software
+390,Agreed. Are these performance tires?,36,performance tires,neutral,/automotive and vehicles/cars/performance vehicles
+391,"Just a small-seeming issue with loss of upper stage camera. Probably nothing serious, but standing down to",106,loss of upper stage camera,negative,/art and entertainment/comics and animation/comics
+392,Sure,aff,aff,aff,aff
+393,"Now that Tesla FSD beta is out in limited release, FSD price (new or upgrade) will go up by ~$2k on Monday",106,Tesla FSD beta,neutral,/automotive and vehicles/cars/hybrid
+394,As soon as we complete testing &amp; regulators approve. So many differe,72,complete testing,neutral,/finance/financial news
+395,Yes,aff,aff,aff,aff
+396,Haha,aff,aff,aff,aff
+397,Dependent on proving high safety,32,high safety,neutral,/automotive and vehicles
+398,Not intentional! We just wanted to show that you could theoretically convert the entire US vehicle f,100,entire US vehicle f,positive,/automotive and vehicles/vehicle brands
+399,"Cold gas for now, hot later",27,Cold gas,neutral,/business and industrial/energy/natural gas
+400,"I mean, ya gotta have a tiki bar",32,ya gotta,positive,/food and drink
+401,"Starship nosecone, high bay &amp; tiki bar",42,Starship nosecone,neutral,/travel/transports/sea travel
+402,,aff,aff,aff,aff
+403,After it gets to orbit a few times,34,times,neutral,/society/dating
+404,Got a little melty tbh,22,little melty tbh,negative,/sports/bowling
+405,"Those engines could go bar, but would be dicey. Pushing it for near-term tests doesnt achieve",93,term tests doesnt,negative,"/law, govt and politics/government/courts and judiciary"
+406,Raptor has now run for secs at bar chamber pressure before encountering issues. mT-F sea,88,bar chamber pressure,neutral,/sports/diving
+407,"FSD beta rollout happening tonight. Will be extremely slow &amp; cautious, as it should.",88,beta rollout,negative,/art and entertainment/movies and tv/television
+408,Data from engine Starship static fire this morning looks good. Proceeding with nosecone mate.,93,engine Starship,positive,/automotive and vehicles/cars/sedan
+409,Yes. We also have to consider population life-months lost from lockdowns &amp; other restriction,96,population life-months,neutral,"/law, govt and politics"
+410,Sweden at zero deaths Oct,25,zero deaths Oct,neutral,/science/weather/meteorological disaster/hurricane
+411,Yes,aff,aff,aff,aff
+412,"Firmware is probably a slightly more accurate description, but yes",66,accurate description,positive,/technology and computing/hardware
+413,: There's no place like home..especially if it has a Solar Roof.This Kansas ranch got theirs installed in days.,111,Solar Roof.This Kansas ranch,negative,/style and fashion/accessories
+414,"Mobi-C has too much mobility, fusion has too little. We need Mobi-D haha.",73,Mobi-C,negative,/technology and computing/programming languages/c and c++
+415,"Actually, its my neck",21,neck,neutral,/pets/reptiles
+416,"Maybe I can be helpful. Had Mobi-C disc put in at C5-C6, however st surgery failed to remov",91,Mobi-C disc,neutral,/science/medicine/surgery
+417,Pretty accurate. Its not so much DNA sequencing as it is using synthetic DNA/RNA to fix bugs in our code,104,much DNA,negative,/science/biology/molecular biology
+418,London to Beijing would be cool,31,London,positive,/sports/olympics
+419,"Wow, that would be quite a trip!",32,trip,positive,/travel/transports/sea travel
+420,Thats my kid haha,17,kid haha,positive,/sports/running and jogging
+421,mtr trnd,aff,aff,aff,aff
+422,Looks like snoopy,aff,aff,aff,aff
+423,Current production is slightly better,37,Current production,neutral,/automotive and vehicles/cars/performance vehicles
+424,Doesnt seem to be any life in this solar system. Maybe under the ice of Europa or,81,ice of Europa,neutral,/science/geology/volcanology/volcanic eruptions
+425,": Tesla Model SR+ Has Lowest Energy Consumption of All BEVs, Says Report",72,Tesla Model SR,positive,/automotive and vehicles/cars/hybrid
+426,Very creative,aff,aff,aff,aff
+427,That free fusion reactor in the sky conveniently converts ~4 million tons of mass into energy every second,106,free fusion reactor,positive,/science/physics/astrophysics
+428,You never know,aff,aff,aff,aff
+429,After,aff,aff,aff,aff
+430,,aff,aff,aff,aff
+431,"Also, system should autodelete old data automatically by default",64,old data,neutral,/technology and computing/operating systems
+432,Table in tension,16,Table,negative,/sports/billiards
+433,Yes,aff,aff,aff,aff
+434,"Starting production on seater next month, initial deliveries early December",75,early December,neutral,/automotive and vehicles/motor shows
+435,"The gauntlet has been thrown down! The prophecy will be fulfilled. Model S price changes to $69,420 tonight!",108,Model S price changes,neutral,/automotive and vehicles/cars/sedan
+436,,aff,aff,aff,aff
+437,Congratulations!,16,Congratulations,positive,"/law, govt and politics/politics/elections/presidential elections"
+438,Making progress,15,progress,positive,/education/teaching and classroom resources
+439,meter or roughly ft diameter,28,ft diameter,neutral,/science/weather
+440,Will be less roomy with vacuum rocket engines added,51,vacuum rocket engines,neutral,/automotive and vehicles/cars/sedan
+441,"Its still there, but focus is Vegas &amp; Prufrock, our new tunneling machine",77,Vegas,positive,/technology and computing/hardware/computer
+442,For sure,aff,aff,aff,aff
+443,Maybe a month or so. Some finishing touches need to be done on the stations.,76,finishing touches,neutral,/news
+444,"We simplified this a lot. Its basically just Teslas in tunnels at this point,",77,tunnels,neutral,/business and industrial/construction
+445,Sweet,aff,aff,aff,aff
+446,Yes. Everything is slow to a phased array antenna.,50,phased array antenna,neutral,/art and entertainment/radio
+447,Nice,aff,aff,aff,aff
+448,What is love? Baby dont hurt me. Winston Churchill,50,Winston Churchill,neutral,/family and parenting/babies and toddlers
+449,Or maybe weak turrets to allow more strategic degrees of freedom,64,weak turrets,neutral,/travel/transports
+450,Please buff Torbs turret!,25,buff,positive,/automotive and vehicles/vehicle brands
+451,Um yes,aff,aff,aff,aff
+452,I have Goosebumps merch. Not sure how tbh.,42,Goosebumps,positive,/art and entertainment/books and literature/best-sellers
+453,HG2G,aff,aff,aff,aff
+454,LotR,aff,aff,aff,aff
+455,The Illuminaughty,aff,aff,aff,aff
+456,Knee deep,aff,aff,aff,aff
+457,": This will be the first flight of the upgraded cargo version of Dragon, which is able to carry % more science payloads than th",127,science payloads,positive,/travel/transports/air travel/airlines
+458,: The Dragon spacecraft supporting SpaceXs st cargo resupply mission to the departed our Hawthorne factory last,111,Dragon spacecraft,neutral,/travel/transports
+459,Yeah,aff,aff,aff,aff
+460,At least success is in the set of all possible outcomes this time!,66,set of all possible outcomes,positive,/society/unrest and war
+461,"Diess is doing his best to move in the right direction, but hes in a tough position wi",86,right direction,positive,"/law, govt and politics/legal issues/legislation/family laws"
+462,Good grief! SpaceX is getting zero money for this. Starship is designed to carry people &amp; cargo around Ear,110,Good grief,negative,/travel/transports/sea travel
+463,"With FSD, we got stuck in a lot of local maximums, which wasnt clear until we hit the ceiling. This time, its right.",116,lot of local maximums,negative,/sports/baseball
+464,"Thank you, much more accurate haha",34,accurate haha,positive,/sports/running and jogging
+465,This graph appears to be upside down,36,graph,neutral,/hobbies and interests/magic and illusion
+466,Sheer magnitude of the entire production system is hard to appreciate. Almost every element of productio,104,Sheer magnitude of the entire production system,positive,/science/weather/meteorological disaster
+467,Will release order configurator probably in Jan,47,order configurator,neutral,/society/dating
+468,"Limited FSD beta releasing on Tuesday next week, as promised. This will, at first, be limited to a s",100,FSD beta,neutral,"/law, govt and politics"
+469,"The SoCs sync with each other to times/sec, exchanging output of NNs that should be in",86,SoCs sync,negative,/technology and computing/hardware/computer components/chips and processors
+470,Tesla FSD computers dual SoCs function like twin engines on planes they each run different neural nets,102,Tesla FSD computers,neutral,/technology and computing/hardware/computer
+471,Accurate analysis. Quite a few ego/intelligence&gt;&gt;1 people in your comment thread haha. Neither MobilEye,109,comment thread haha,positive,/automotive and vehicles/cars/performance vehicles
+472,!,aff,aff,aff,aff
+473,Glad Jen is safe!,17,Glad Jen,positive,/society/gay life
+474,Wow,aff,aff,aff,aff
+475,"Uh ok, here we go",17,Uh,positive,/sports/go kart
+476,I dont think this is accurate,aff,aff,aff,aff
+477,"Yeah, there are lite",20,lite,neutral,/sports/skateboarding
+478,"Even if half that amount, its still a big deal!",47,big deal,positive,/real estate/buying and selling homes
+479,,aff,aff,aff,aff
+480,I have seen no evidence of an advanc,36,evidence of an advanc,positive,/society/crime/personal offense/homicide
+481,We face a tough dichotomy of applying resources to the old architecture or applying them to the ne,98,tough dichotomy,positive,/education/teaching and classroom resources
+482,Definitely,aff,aff,aff,aff
+483,"Exactly. He plays the poor inventor card, but was rich all along &amp; invented nothing (as far as I kn",103,poor inventor card,negative,/technology and computing/hardware/computer components/sound cards
+484,There are sketchy edits to Tesla wiki that whitewash Eberhards problems/glorify his role. Pretty odd,100,sketchy edits,negative,/automotive and vehicles/cars/hybrid
+485,When Eberhard was fired from the Tesla CEO role in mid for providing false information to me &amp; t,100,Tesla CEO role,neutral,/automotive and vehicles/cars/hybrid
+486,Interesting,aff,aff,aff,aff
+487,: The future of cars can and will be electric if the entire industry starts making and marketing compelling EVs for everyone,124,future of cars,positive,/automotive and vehicles/cars/hybrid
+488,,aff,aff,aff,aff
+489,Probably,aff,aff,aff,aff
+490,I have that exact art on the wall of the place I stay in Boca Chica!,68,Boca Chica,positive,/art and entertainment/visual art and design/art and craft supplies
+491,"Yes, failure to protect nursing homes was a major mistake (happened in most countries",85,major mistake,negative,/family and parenting/eldercare
+492,Sweden was right,16,Sweden,neutral,"/law, govt and politics"
+493,,aff,aff,aff,aff
+494,Great work by SpaceX valve engineering &amp; production!,56,Great work,positive,/science/engineering
+495,Our tiles are mechanically attached,35,tiles,neutral,/art and entertainment/visual art and design/design
+496,It m,aff,aff,aff,aff
+497,Tiles will be,aff,aff,aff,aff
+498,"Compilers need to improve imo. Most type, pointer (or other memory) problems can be detected at comp",100,type,neutral,/technology and computing/programming languages/c and c++
+499,Im proud to say that that nose is pointier than it needs to be haha,67,Im,positive,/family and parenting/children
